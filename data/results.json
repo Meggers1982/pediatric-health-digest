@@ -1,1 +1,799 @@
-{"last_updated": "", "total_studies": 0, "studies": []}
+{
+  "last_updated": "2026-06-26T13:06:56.242079+00:00",
+  "total_studies": 24,
+  "new_this_run": 24,
+  "studies": [
+    {
+      "pmid": "42351255",
+      "headline": "Newborn Hearing Screening Has a Hidden Weak Link \u2014 And It's Not the Initial Test",
+      "journal": "Italian Journal of Pediatrics",
+      "pubdate": "2026 Jun 26",
+      "doi": "10.1186/s13052-026-02293-8",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed five years of data (2019\u20132023) from the newborn hearing screening program in the Friuli-Venezia Giulia region of Italy, examining 106 newborns and infants referred to Level 3 \u2014 the diagnostic confirmation and treatment stage \u2014 of the screening pathway. The study found that organizational failures, particularly poor coordination between local birthing centers and specialized regional facilities, created 'cascade' effects that delayed diagnosis and delayed the start of treatment. False positives and loss to follow-up were identified as significant problems at this advanced stage, which has received far less research attention than the initial screening step.",
+      "why_it_matters": "Even when universal newborn hearing screening programs exist, organizational gaps in the later diagnostic stages may mean some children with hearing loss don't get timely treatment \u2014 a delay that can affect language and developmental outcomes during a critical window. Pediatricians and health policymakers may find this a useful prompt to examine whether follow-up infrastructure matches the quality of initial screening.",
+      "caveats": "small sample (N<100), single-center, observational design, narrow age range",
+      "fact_check_note": "Abstract states N=106 children enrolled at Level 3; study covers a single Italian region. Summary accurately reflects these limitations and the study's focus on the diagnostic/treatment phase rather than universal screening broadly.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Addresses an important neonatal health infrastructure issue with real developmental consequences, but the very small single-region sample and highly technical health-systems focus limit broad parenting journalism appeal.",
+      "pitch_angles": [
+        {
+          "publication_type": "HealthyChildren.org / NPR Health",
+          "headline": "Your Baby Passed the Hearing Screen \u2014 But the Follow-Up System May Be Letting Some Kids Fall Through the Cracks",
+          "hook": "A new Italian study suggests the weakest link in newborn hearing screening isn't the ear test done at the hospital \u2014 it's everything that happens after a baby is flagged for follow-up.",
+          "why_it_fits": "HealthyChildren.org and NPR Health readers include pediatricians and health-conscious parents who rely on well-child screening programs and would want to know if systemic gaps exist in a program widely assumed to be working well.",
+          "pitch_angle": "Newborn hearing screening is standard in most developed countries, but a five-year Italian study found that the diagnostic confirmation stage \u2014 what happens after a baby doesn't pass the initial screen \u2014 is plagued by coordination failures between local hospitals and specialist centers, leading to delayed diagnoses. For a condition where early intervention in the first months of life is critical for language development, these delays carry real developmental stakes. The story explores what 'universal screening' really means when the follow-up infrastructure doesn't match the front-end promise.",
+          "caveats_to_flag": "Only 106 infants from a single Italian region; findings may not reflect the U.S. or other national systems; observational design cannot establish causation between system failures and developmental outcomes."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42343672",
+      "headline": "Stigma Is a Bigger Barrier to Free School Meals Than Money \u2014 Experts Say Policy Has to Catch Up",
+      "journal": "Public Health Nutrition",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1017/S1368980026102432",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted qualitative interviews with 17 stakeholders across local, regional, and national government, policy, academia, and schools in England to explore barriers and facilitators to expanding free school meal (FSM) provision. Using the Framework Method and the CICI framework, they found that stigma reduction and integration with existing school food policies were cited as top priorities by stakeholders. The study did not directly involve child participants but gathered expert and policymaker perspectives on how to address rising food insecurity among children in England.",
+      "why_it_matters": "With household food insecurity rising in England, this study suggests that expanding school meal eligibility alone may not be sufficient \u2014 how meals are delivered matters, and stigma may prevent eligible children from accessing food they need. Parents, school administrators, and policymakers in other English-speaking countries may find the findings relevant to their own school meal debates.",
+      "caveats": "small sample (N<100), qualitative design, single-center, narrow geographic scope (England only), no child participants, self-reported (stakeholder-reported) outcomes, observational design",
+      "fact_check_note": "N=17 stakeholders \u2014 no child participants. Study is qualitative and draws on expert opinion, not child or family data. Described accurately as stakeholder interview study. No causal claims made.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly addresses child food insecurity and school nutrition policy \u2014 a high-relevance topic for parenting journalism \u2014 but the small qualitative sample, absence of child participants, and England-only scope limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "HealthyChildren.org / General health",
+          "headline": "Free School Lunches Work \u2014 But Only If Kids Aren't Ashamed to Take Them",
+          "hook": "Experts say stigma \u2014 not just funding \u2014 is one of the biggest obstacles stopping hungry children from accessing free school meals.",
+          "why_it_fits": "HealthyChildren.org and general health audiences include pediatricians and parents who care about child nutrition equity and food access in schools.",
+          "pitch_angle": "A new qualitative study from England found that stakeholders across government, schools, and academia identified stigma reduction as a top priority for expanding free school meal programs \u2014 above and beyond funding concerns. Researchers suggest that how meals are delivered matters as much as whether they're available, with calls to integrate free meal programs seamlessly into regular school routines. For parents and school health advocates, the findings add nuance to the debate over universal school meals.",
+          "caveats_to_flag": "Only 17 stakeholders were interviewed; no children or families participated directly. Findings are qualitative and England-specific. Journalists covering U.S. or Canadian school meal policy should note that policy structures differ."
+        },
+        {
+          "publication_type": "NPR Health / NYT Parenting",
+          "headline": "The Hidden Reason Some Kids Skip Free School Lunch Even When They Qualify",
+          "hook": "Policy experts say shame and stigma may be keeping food-insecure children from eating the school meals they're entitled to \u2014 and that fixing the system means redesigning how meals are offered, not just who pays.",
+          "why_it_fits": "NPR Health and NYT Parenting readers are engaged with systemic and equity-focused stories about child welfare and policy gaps.",
+          "pitch_angle": "As food insecurity rises among families, a new study from England interviewed school meal policymakers, academics, and government officials to understand why expanding free school meal programs is harder than it sounds. Stigma \u2014 the social cost children feel when identified as receiving free meals \u2014 emerged as a central barrier. The researchers argue that universal or near-universal provision, which removes visible markers of need, may be more effective than means-tested expansion. The findings echo debates playing out in the U.S. and Canada over school meal universality.",
+          "caveats_to_flag": "Small qualitative sample (N=17); no child or parent voices included; England-only context. Cannot be generalized directly to U.S. or Canadian school food policy without acknowledging structural differences."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42349780",
+      "headline": "Teen-Onset Schizophrenia Shows Distinct Brain Network Patterns That Persist Even After Medication",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1016/j.jaac.2026.06.016",
+      "groundbreaking": "Counterintuitive finding / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used resting-state fMRI and graph theory analysis to compare brain network organization in patients with early-onset schizophrenia (EOS, onset before age 18) versus adult-onset schizophrenia (AOS) and healthy controls. The study included 45 first-episode drug-na\u00efve EOS patients, 47 drug-na\u00efve AOS patients, 79 age-matched healthy controls, and additional medicated groups (91 EOS, 79 AOS) from a single center in China. Researchers found that EOS and AOS showed opposite patterns of abnormality in the somatosensory-motor and auditory brain networks \u2014 and crucially, the somatosensory-motor network abnormalities in EOS persisted even after antipsychotic treatment. This suggests that childhood-onset schizophrenia may have a biologically distinct neural profile, not merely an earlier version of adult-onset illness.",
+      "why_it_matters": "Understanding that early-onset schizophrenia may be neurologically distinct from adult-onset illness could eventually inform how clinicians approach diagnosis and treatment planning for adolescents \u2014 though these findings are preliminary and not yet ready to guide clinical decisions.",
+      "caveats": "small sample (N<100 in drug-na\u00efve groups), single-center, narrow age range, observational design",
+      "fact_check_note": "Abstract confirmed: drug-na\u00efve EOS N=45, drug-na\u00efve AOS N=47, healthy controls N=79; medicated groups EOS N=91, AOS N=79. Onset before age 18 confirmed as EOS definition. Persistence of SMN abnormalities post-treatment confirmed in abstract.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Covers a meaningful pediatric mental health topic (adolescent schizophrenia) with a counterintuitive neuroimaging finding, but small drug-na\u00efve samples, single-center design, and highly technical subject matter limit broad parenting journalism appeal.",
+      "pitch_angles": [
+        {
+          "publication_type": "NPR Health / TIME Health",
+          "headline": "When Schizophrenia Starts in Childhood, the Brain Looks Different \u2014 Even After Treatment",
+          "hook": "A new brain imaging study suggests that schizophrenia beginning before age 18 isn't simply an earlier version of the adult illness \u2014 it may be a neurologically distinct condition.",
+          "why_it_fits": "NPR Health and TIME Health audiences are interested in mental health science and what emerging neuroscience means for how we understand and treat psychiatric illness in young people.",
+          "pitch_angle": "Researchers comparing adolescent- and adult-onset schizophrenia found that abnormal brain network patterns in teens persisted even after antipsychotic medication \u2014 a pattern not seen in adults. If replicated in larger studies, this could reshape how pediatric psychiatrists think about diagnosing and treating schizophrenia when it emerges in childhood. The story offers a window into how adolescent brain development intersects with serious mental illness.",
+          "caveats_to_flag": "Small drug-na\u00efve sample sizes (N=45 EOS, N=47 AOS), single center in China, observational neuroimaging design \u2014 findings are preliminary and cannot establish causation or guide current treatment decisions."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42348992",
+      "headline": "The Child Protection System Meant to Help Exploited Youth May Sometimes Make Things Worse, Study Finds",
+      "journal": "Child Abuse & Neglect",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.1016/j.chiabu.2026.108181",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in Chile conducted a qualitative study examining the intervention histories of 12 young people who were victims of child sexual exploitation (CSE) and had received services from Chile's National Specialised Protection Services. Case files were reviewed and 32 interviews were conducted with professionals involved in the cases. The study found that prior to the sexual exploitation occurring, critical failures in identifying, referring, and responding to earlier harms were common, and that the structure of protective interventions \u2014 rather than only individual professional errors \u2014 may have increased rather than decreased children's vulnerability to sexual exploitation over time.",
+      "why_it_matters": "This research raises systemic questions about whether child protection services, as currently structured, may inadvertently perpetuate harm for the most vulnerable children \u2014 a finding relevant to policymakers, child welfare advocates, and journalists covering child protection reform.",
+      "caveats": "small sample (N<100), qualitative design, single-center, observational design",
+      "fact_check_note": "Abstract confirms N=12 youth, 32 professional interviews, qualitative design, Chilean national protection services context. The study does not make causal claims and neither does this summary.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive and policy-relevant finding on child protection system failures, but the very small qualitative sample (N=12) and single-country context substantially limit generalizability and make this a difficult pitch for mainstream parenting outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "NPR Health / General health",
+          "headline": "When the System Meant to Protect Children From Exploitation Fails Them Repeatedly \u2014 Even After They're in Its Care",
+          "hook": "A Chilean study found that children who were eventually sexually exploited had often passed through child protection services multiple times first \u2014 and that systemic failures, not just individual mistakes, may have compounded their vulnerability at each step.",
+          "why_it_fits": "NPR Health and general health journalism outlets covering child welfare and policy will find this study relevant to ongoing debates about child protection reform, especially for the most marginalized youth.",
+          "pitch_angle": "A qualitative investigation of 12 young victims of child sexual exploitation in Chile found that the protective interventions meant to shield them from harm were often marked by failures in identification, referral, and adequate response to earlier abuse \u2014 and that these failures appeared systemic rather than simply the result of individual professional negligence. Researchers argue that examining these 'cascade' effects is essential for understanding how protection systems can inadvertently increase children's vulnerability. The story examines what it looks like when the safeguarding net has holes, and what reforming those systems might require.",
+          "caveats_to_flag": "Qualitative design with only 12 cases from a single Chilean program; findings cannot be generalized to other countries or child protection systems; no causal conclusions can be drawn."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42338268",
+      "headline": "Bullying and social isolation take a measurable mental health toll on LGBTQ+ youth \u2014 but protective environments can help",
+      "journal": "Journal of Homosexuality",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/00918369.2026.2623455",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This is a very brief reflective commentary (1\u20133 pages, no abstract body provided beyond the title and author affiliation) published in the Journal of Homosexuality, addressing bullying, social isolation, and mental health among sexual and gender minority (SGM) youth. No sample size, age range, participant data, or study design details are available from the abstract. The piece appears to reflect on mechanisms linking victimization to mental health outcomes and the role of protective social contexts for LGBTQ+ youth. Without an accessible abstract providing participant data, methodology, or findings, the content cannot be verified beyond the title.",
+      "why_it_matters": "LGBTQ+ youth mental health is a high-priority pediatric public health issue, and research exploring protective factors against bullying and isolation is of significant relevance to parents, school counselors, and pediatricians \u2014 though this piece's commentary format limits its empirical contribution.",
+      "caveats": "no empirical data verifiable from abstract, commentary or opinion piece, no sample size reported, no age range of participants confirmed, single-author reflective piece, abstract unavailable for full fact-check",
+      "fact_check_note": "No substantive abstract text was provided beyond title and author affiliation. Unable to verify sample size, age range, study design, or direction of effect. Flagged as a commentary/reflective piece based on page count (1\u20133 pp) and journal format. Journalists should retrieve full text before pitching.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Addresses a high-prevalence and high-stakes pediatric mental health topic (LGBTQ+ youth bullying and isolation) with clear parenting and clinical relevance, but the commentary format and absence of verifiable empirical data prevent a higher score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "LGBTQ+ Kids Face Real Mental Health Risks From Bullying \u2014 Here's What Helps",
+          "hook": "Social isolation and bullying don't just hurt in the moment \u2014 for sexual and gender minority youth, research suggests they're linked to lasting mental health consequences.",
+          "why_it_fits": "Parents of LGBTQ+ children are actively seeking guidance on how to support their kids' mental health and navigate hostile school environments.",
+          "pitch_angle": "A new commentary in the Journal of Homosexuality examines the mechanisms by which bullying and social exclusion affect mental health in LGBTQ+ youth, and highlights the kinds of protective environments \u2014 family, school, community \u2014 that may buffer those effects. For parents raising sexual and gender minority children, understanding what makes a difference could be genuinely life-changing. The piece arrives as youth mental health reaches crisis levels nationally, with LGBTQ+ teens disproportionately affected.",
+          "caveats_to_flag": "This appears to be a reflective commentary rather than an original empirical study; no participant data or sample size were available in the abstract. Journalists should obtain the full text and assess whether primary data underpin the claims before pitching as a data-driven piece."
+        },
+        {
+          "publication_type": "HealthyChildren.org / NPR Health",
+          "headline": "For LGBTQ+ Youth, the Right Support System May Protect Mental Health Against Bullying's Harm",
+          "hook": "Bullying harms all kids \u2014 but for sexual and gender minority youth, the mental health stakes are especially high, and new analysis suggests protective environments may make a measurable difference.",
+          "why_it_fits": "Pediatricians and public health communicators need accessible, evidence-informed framing to counsel families and advocate for supportive school policies for LGBTQ+ youth.",
+          "pitch_angle": "A commentary published in the Journal of Homosexuality reflects on the pathways linking bullying and social isolation to mental health struggles in LGBTQ+ youth, and considers what protective contexts \u2014 affirming families, inclusive schools \u2014 may interrupt those pathways. For pediatricians, the question of how to counsel parents of gender-diverse and sexual minority children is increasingly urgent. This piece could anchor a broader feature on what the evidence says about protective factors for this vulnerable population.",
+          "caveats_to_flag": "The piece is a commentary and may not present original data; the absence of a full abstract means study design, sample, and age range of youth studied cannot be confirmed. Journalists should treat this as a conversation-starter requiring additional primary source reporting."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42339861",
+      "headline": "Countries That Invented the Mediterranean Diet Are Now Abandoning It \u2014 and Paying a Health Price",
+      "journal": "International Journal of Food Sciences and Nutrition",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/09637486.2026.2692948",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review by a single author examines the paradox that adherence to the Mediterranean diet is declining in its countries of origin \u2014 Greece, Spain, and Southern Italy \u2014 while simultaneously growing in countries outside the Mediterranean region. The review draws on existing population and epidemiological data rather than a new primary study, with no specific pediatric cohort reported. The author argues this dietary shift correlates with rising rates of metabolic disease and obesity in Mediterranean countries, and calls for coordinated public health strategies to reverse the trend.",
+      "why_it_matters": "For families, the finding suggests that cultural proximity to a healthy diet pattern offers no protection against dietary drift \u2014 a reminder that nutrition habits require active reinforcement at the household and policy level. Pediatric health advocates may find this relevant as dietary patterns established in childhood track into adulthood.",
+      "caveats": "observational design, no pediatric population, no primary data, single author, narrative review only, no age range of child participants reported",
+      "fact_check_note": "Abstract describes this as a review/commentary, not an original study. No pediatric participants are described. No sample size (N) is reported. The article has been scored down accordingly for lack of pediatric data.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "No pediatric population studied, no primary data, narrative commentary only \u2014 limited direct relevance for children's health journalism without extrapolation.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Countries That Created the Mediterranean Diet Are Eating Less of It \u2014 and Kids May Be the Long-Term Losers",
+          "hook": "The Mediterranean diet is gaining fans in the U.S. and northern Europe just as families in Greece and Italy are quietly abandoning it.",
+          "why_it_fits": "General health audiences are familiar with Mediterranean diet messaging and would be surprised by this reversal.",
+          "pitch_angle": "A new review highlights a striking public health paradox: adherence to the Mediterranean diet is falling fastest in the very countries that originated it, while rising elsewhere. Researchers link this shift to climbing rates of obesity and metabolic disease. For parents, it raises a broader question about whether healthy eating habits are passed down culturally \u2014 or whether every generation has to relearn them.",
+          "caveats_to_flag": "This is a single-author narrative review with no new primary data and no pediatric-specific findings. Causal claims cannot be made. Journalists should treat this as context or commentary, not new evidence."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42338317",
+      "headline": "What Athletes Eat May Change How Hard Exercise Feels \u2014 Not Just How Long They Can Go",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/15502783.2026.2692003",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This brief narrative review examines how dietary interventions \u2014 including caffeine, beta-alanine, carbohydrate mouth rinsing, branched-chain amino acids, citrulline, taurine, and probiotics \u2014 may improve endurance performance by reducing the perceived effort of exercise, rather than solely through metabolic or cardiovascular pathways. The review synthesizes existing literature and does not report a primary study, participant sample size, or pediatric population. Authors conclude that evidence supports a role for diet in modulating brain networks involved in effort perception, but note that optimal doses for different sports remain unclear.",
+      "why_it_matters": "For parents of young athletes or coaches working with adolescents, this review suggests that sports nutrition affects not only physical output but also how hard exercise feels \u2014 though findings are drawn from adult athletic literature and have not been tested in pediatric populations.",
+      "caveats": "no pediatric population, narrative review only, no primary data, no age range of participants reported, adult study extrapolated to children without pediatric data",
+      "fact_check_note": "No pediatric participants or sample size reported. Review focuses on adult athletic and elderly populations. Scored down for absence of pediatric data. No causal claims made per review design.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "No pediatric population studied and no primary data; marginal relevance to children's health journalism unless framed narrowly around youth sports nutrition, for which the evidence base here is absent.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Sports Nutrition Might Change How Hard Exercise Feels for Young Athletes \u2014 But the Science Is Still Catching Up",
+          "hook": "A new review suggests that what athletes eat doesn't just fuel their muscles \u2014 it may also change how much effort their brain registers during hard workouts.",
+          "why_it_fits": "Parents of youth athletes frequently ask about sports nutrition and performance supplements; this review offers a useful framing of how diet may interact with perceived exertion.",
+          "pitch_angle": "Researchers reviewing the sports nutrition literature found that several dietary interventions \u2014 including caffeine and carbohydrate mouth rinsing \u2014 may improve endurance by reducing how hard exercise feels, not just by boosting physical capacity. The mechanism may involve brain networks that regulate effort perception. Parents of young athletes should note, however, that this research is based on adult populations and that supplement safety and dosing in children and adolescents has not been established.",
+          "caveats_to_flag": "Narrative review only; no primary data; no pediatric participants. Adult findings should not be applied to children or adolescents without specialist guidance. Several substances reviewed (e.g., caffeine supplements) are not recommended for pediatric use."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340381",
+      "headline": "Parents' depression and anxiety may not directly hurt kids' grades, large family study finds",
+      "journal": "European Child & Adolescent Psychiatry",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1007/s00787-026-03100-9",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed data from approximately 9,000 families in the Norwegian Mother, Father, and Child Study (MoBa), tracking parental symptoms of anxiety, depression, ADHD, eating disorders, and alcohol use disorder reported during pregnancy and early childhood. Children's academic performance was assessed at age 10 using nationally standardized tests in mathematics, reading comprehension, and English. Using a children-of-siblings (cousin comparison) design to control for unmeasured shared family factors, the study found that small observed associations between parental mental health symptoms and lower academic scores disappeared when cousins whose parents differed in mental health were compared. The findings suggest that parental psychopathology symptoms do not exert a direct, clinically meaningful effect on children's academic achievement at age 10.",
+      "why_it_matters": "This study challenges the widely held assumption that a parent's mental health directly causes lower school performance in children, suggesting that shared family environment or genetic factors \u2014 not parental symptoms alone \u2014 may explain the link. Pediatricians and parents should understand that supporting parental mental health remains important, but its direct academic impact on children may be smaller than previously believed.",
+      "caveats": "observational design, single-country sample (Norway), narrow age range (age 10 only), self-reported (parent-reported) outcomes for mental health symptoms, ascertainment differences between overall and cousin-comparison samples limit generalizability, secondary analysis",
+      "fact_check_note": "N reported as 'approximately 9,000 families' consistent with abstract ('9,000 families'); effect sizes reported accurately (\u22120.060 \u2264 \u03b2 \u2264 \u22120.013); cousin-comparison design correctly characterized as children-of-siblings design; age of children at testing confirmed as 5th grade (aged 10). No corrections required.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Directly overturns a widely held parenting and pediatric belief about the intergenerational effects of parental mental illness on school achievement, with a large sample, a rigorous quasi-experimental design, and strong practical relevance for parents and clinicians \u2014 offset slightly by the narrow age range (age 10 only) and single-country generalizability concerns.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Your mental health struggles may not be hurting your child's grades the way you think",
+          "hook": "A large study of 9,000 families found that when researchers controlled for shared family background, parents' anxiety and depression were no longer linked to lower test scores in their 10-year-olds.",
+          "why_it_fits": "Parents who live with anxiety, depression, or ADHD often carry guilt about their children's school performance \u2014 this finding directly challenges that narrative.",
+          "pitch_angle": "For years, research has suggested that children of parents with mental health conditions do worse in school. But a new Norwegian study of 9,000 families used a clever cousin-comparison design to strip away shared genetic and environmental factors \u2014 and found the direct link essentially vanished. The finding suggests it may be shared family circumstances, not a parent's symptoms themselves, that drive the academic gap. For parents already struggling with mental illness, this is nuanced but potentially reassuring news.",
+          "caveats_to_flag": "Study was conducted in Norway and may not generalize to other countries; children were only assessed at age 10; parental mental health was self-reported; the study cannot rule out effects at other developmental stages."
+        },
+        {
+          "publication_type": "NPR Health / NYT Parenting",
+          "headline": "The link between parents' mental health and kids' school performance is more complicated than we thought",
+          "hook": "A quasi-experimental study of 9,000 Norwegian families found that once shared family background is accounted for, parental depression and anxiety show no meaningful direct effect on children's academic test scores at age 10.",
+          "why_it_fits": "NPR Health and NYT Parenting audiences are interested in the science of intergenerational health and appreciate methodologically rigorous studies that complicate simple cause-and-effect narratives.",
+          "pitch_angle": "The assumption that a parent's mental illness directly impairs their child's academic trajectory has shaped policy, pediatric guidelines, and parental guilt for decades. A new study in European Child & Adolescent Psychiatry used a children-of-siblings design \u2014 comparing cousins whose parents differ in mental health \u2014 to isolate direct parental effects from confounding family factors. The direct effect, it turns out, may be far smaller than assumed. Researchers are careful to note this doesn't diminish the importance of treating parental mental health, but it does complicate how we assign causality in intergenerational research.",
+          "caveats_to_flag": "Norwegian sample may not reflect the U.S. context; the cousin-comparison sample showed ascertainment differences from the broader cohort; children assessed only at age 10; the study is observational and cannot fully rule out unmeasured confounding."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340195",
+      "headline": "Courtrooms Are Using a Legal Tactic That Child Development Science Says Kids Can't Handle",
+      "journal": "Child Maltreatment",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1177/10775595261463206",
+      "groundbreaking": "Counterintuitive finding / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers reviewed testimony transcripts from 120 sexual abuse prosecutions involving child witnesses aged 6 to 12 years, identifying 96 cases where defense attorneys challenged children's credibility using prior inconsistent statements. In 11% of those cases, the statements were not actually inconsistent. Among the remaining cases, researchers found that 94% involved one or more of 12 identified developmental challenges \u2014 including questions about time and number, questions requiring children to distinguish among multiple similar incidents, use of adult sexual terminology, and grammatically complex negative-polarity questions using words like 'any' and 'ever' \u2014 that could developmentally explain why a child's statements appeared to differ.",
+      "why_it_matters": "This research suggests that a standard legal credibility-attack tool used routinely in child sexual abuse trials may systematically exploit normal developmental limitations in children aged 6\u201312, potentially disadvantaging child victims in court. Child advocates, legal reformers, and forensic interviewers may find these findings relevant to how children are questioned.",
+      "caveats": "observational design, single jurisdiction not specified, secondary analysis",
+      "fact_check_note": "Abstract confirms N=120 prosecutions, 96 cases with alleged inconsistencies, 6\u201312 age range, 11% not actually inconsistent, 94% with developmental challenges, and specific question-type percentages as reported in the summary.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive and policy-relevant finding about how normal child development intersects with legal systems in abuse cases \u2014 strong fit for outlets covering child welfare, justice, and advocacy, though not a typical parenting-tip story.",
+      "pitch_angles": [
+        {
+          "publication_type": "NPR Health",
+          "headline": "The Courtroom Tactic That Turns Kids' Normal Development Against Them",
+          "hook": "A new study finds that nearly all cases where lawyers challenged child abuse victims with 'prior inconsistent statements' involved developmentally normal limitations \u2014 like difficulty with time, numbers, or complex grammar \u2014 not actual dishonesty.",
+          "why_it_fits": "NPR Health's audience includes policy-minded listeners interested in how science intersects with public systems, and child abuse prosecution is a high-stakes area where developmental science has clear implications.",
+          "pitch_angle": "Researchers analyzed 120 sexual abuse trials involving child witnesses ages 6 to 12 and found that in 94% of cases where children were accused of contradicting themselves, the apparent inconsistency could be explained by normal cognitive and linguistic developmental limitations \u2014 including trouble remembering the sequence of multiple similar events, or confusion caused by adult legal terminology they weren't equipped to parse. In 11% of cases, the statements weren't even actually inconsistent. The story examines what it means for child justice when courts use a legal tool calibrated for adults on witnesses whose brains are still developing.",
+          "caveats_to_flag": "Observational review of case files; causation between question types and inconsistencies cannot be established; sample drawn from a specific jurisdiction and may not represent all court systems."
+        },
+        {
+          "publication_type": "NYT Parenting",
+          "headline": "When a Child Says Something Different in Court, Is It a Lie \u2014 or Just How Kids Remember?",
+          "hook": "Child witnesses in abuse trials are routinely challenged when their testimony doesn't perfectly match earlier statements \u2014 but a new study suggests those differences may reflect normal child development, not deception.",
+          "why_it_fits": "NYT Parenting readers are engaged with deeper stories about child psychology and systemic issues affecting families, and this piece connects developmental science with a real-world justice context.",
+          "pitch_angle": "For parents and child advocates, the assumption that inconsistency equals dishonesty in a child's testimony may need rethinking. A study of 120 abuse prosecutions found that children ages 6\u201312 were routinely challenged with questions they were developmentally unprepared to answer accurately \u2014 about time, sequence, sexual terminology, and complex negatives \u2014 making normal memory gaps look like lies. The story raises questions about whether the legal system's standards for witness credibility were built for adult cognition, not children's.",
+          "caveats_to_flag": "Case file review design; the study identifies question-type difficulties but cannot prove those factors caused the inconsistencies; findings are from a specific set of prosecutions and may not generalize broadly."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340632",
+      "headline": "Kids Who Score 'Medium Risk' on a Standard Autism Screen at Age 2 Face Broad Developmental Challenges by Preschool \u2014 Even Without an Autism Diagnosis",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1007/s10803-026-07402-4",
+      "groundbreaking": "Counterintuitive finding / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using data from the French national birth cohort ELFE, researchers assessed 10,471 children who were screened with the M-CHAT-R autism screening tool at age 2, classifying 9,223 as low-risk and 1,248 as medium-risk. At ages 3 to 3.5 years, medium-risk children were more than twice as likely to show developmental delay (16.6% vs. 6.1%, adjusted relative risk 2.2) and scored significantly lower on cognitive and language measures (up to \u22120.4 SD) compared to low-risk peers. Despite these differences, most medium-risk children attended school and their school participation was largely similar to that of low-risk children.",
+      "why_it_matters": "The M-CHAT-R is widely used in pediatric well-child visits to screen for autism, but this large cohort study suggests the 'medium-risk' result \u2014 which often receives less clinical attention than a high-risk result \u2014 flags children who may need broader developmental support well before a formal autism diagnosis is ever made. Early access to neurodevelopmental services for this group could be an important and currently underused opportunity.",
+      "caveats": "observational design, self-reported (parent-reported) outcomes, narrow age range",
+      "fact_check_note": "Abstract confirms N=10,471 total (9,223 low-risk, 1,248 medium-risk); outcomes measured at ages 3\u20133.5 years; developmental delay prevalence 16.6% vs. 6.1% with adjusted RR 2.2; cognitive/language score difference up to \u22120.4 SD; school participation largely similar. All figures verified against abstract.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Large national cohort, counterintuitive finding about an underappreciated screening result category, covers a high-prevalence issue (autism screening and early child development) with a clear and practical implication for pediatric practice and parenting awareness.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Your Toddler Got a 'Medium Risk' Result on the Autism Screen. Here's What That Actually Means.",
+          "hook": "A major French study of more than 10,000 children found that toddlers flagged as 'medium risk' on the standard autism screening tool were more than twice as likely to show developmental delays by preschool \u2014 even if they never received an autism diagnosis.",
+          "why_it_fits": "Parents of toddlers frequently encounter the M-CHAT-R at well-child visits and may be confused or reassured by a 'medium risk' result that doesn't lead to an immediate diagnosis \u2014 this story gives them important context.",
+          "pitch_angle": "The M-CHAT-R is one of the most commonly used autism screening tools in pediatric offices, but what happens when a child scores in the middle? A large French national birth cohort study following more than 10,000 children found that those classified as medium-risk at age 2 were more than twice as likely to have developmental delays \u2014 in language, cognition, and behavior \u2014 by the time they started preschool at age 3.5. Most of these children weren't diagnosed with autism, but they still showed meaningful differences from their peers. The story examines what 'medium risk' really means and why it may deserve more follow-through than it typically gets.",
+          "caveats_to_flag": "Observational cohort design; cannot establish that M-CHAT-R risk status causes developmental differences; some outcomes based on parent or teacher report; findings from French cohort may not perfectly reflect U.S. screening or care systems."
+        },
+        {
+          "publication_type": "HealthyChildren.org / NPR Health",
+          "headline": "The Autism Screen Result Pediatricians May Be Underreacting To",
+          "hook": "Children who score 'medium risk' on the M-CHAT-R autism screen at age 2 are more than twice as likely to show developmental delays at preschool entry, a large European cohort study found \u2014 yet this result often triggers less clinical follow-up than a high-risk score.",
+          "why_it_fits": "Pediatricians and health journalists covering child development policy will be directly interested in whether current screening thresholds and follow-up protocols are calibrated correctly for a large subgroup of children who may be falling through the cracks.",
+          "pitch_angle": "The M-CHAT-R is widely recommended for autism screening at the 18- and 24-month well-child visit, but the 'medium risk' category \u2014 which sits below the threshold for immediate referral \u2014 may be masking a population of children with significant developmental needs. A French national birth cohort study of more than 10,000 children found that medium-risk toddlers were 2.2 times more likely to have developmental delays by age 3.5 and scored meaningfully lower on cognitive and language tests, even though most attended school normally. The piece explores what these findings suggest about current referral protocols and whether earlier support for medium-risk children could shift developmental trajectories.",
+          "caveats_to_flag": "Observational design; some measures are parent- or teacher-reported; cohort is French and follow-up ends at age 3.5, limiting conclusions about longer-term outcomes."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340634",
+      "headline": "Regular Exercise Significantly Boosts Motor Skills in Young Children With Autism, Analysis of Controlled Trials Finds",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1007/s10803-026-07403-3",
+      "groundbreaking": "First-in-class human study / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a systematic review and meta-analysis of 10 randomized controlled trials including 256 children with autism spectrum disorder (ASD) with a mean age of approximately 6.9 years (\u00b12.51 years, range up to age 12). Physical exercise interventions were associated with large, statistically significant improvements in total motor skills (SMD = 1.58), locomotion (SMD = 1.34), object control (SMD = 1.37), and balance (SMD = 1.73) compared to control conditions. Meta-regression found that higher exercise frequency was positively associated with balance gains, while longer intervention duration showed diminishing returns, suggesting an adaptation plateau. Publication bias was detected for total motor skills and balance outcomes.",
+      "why_it_matters": "Motor skill delays are common in children with ASD and can affect participation in school activities, play, and social development; this meta-analysis of RCTs suggests structured physical exercise programs may offer meaningful and achievable motor skill improvements for this age group. Parents, educators, and pediatric occupational and physical therapists may find this early evidence useful when considering activity programming for young children with ASD.",
+      "caveats": "small sample (N<100), narrow age range, short follow-up",
+      "fact_check_note": "Abstract confirms 10 RCTs, N=256, mean age 6.91 \u00b1 2.51 years, SMD values and confidence intervals for total motor skills (1.58, 95%CI 1.15\u20132.00), locomotion (1.34), object control (1.37), and balance (1.73) as reported. Publication bias detected for total motor skills and balance is accurately noted. The N<100 caveat reflects the small number of RCTs and total participants (256 across 10 studies, averaging ~25 per trial), not a single-study sample below 100.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Meta-analysis of RCTs with a pediatric ASD population on a high-prevalence developmental issue, clear practical takeaway for parents and therapists, and a counterintuitive dosing finding (more frequent but not necessarily longer sessions) add genuine news value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Exercise May Be One of the Best Tools for Helping Kids With Autism Build Motor Skills \u2014 But How You Schedule It Matters",
+          "hook": "A new analysis of 10 controlled trials found that regular physical exercise produced large improvements in motor skills \u2014 including balance, running, and object control \u2014 in children with autism as young as preschool age.",
+          "why_it_fits": "Parents of children with ASD are actively seeking evidence-based, accessible interventions, and exercise is a low-barrier option that many families can act on with guidance from their child's care team.",
+          "pitch_angle": "Children with autism spectrum disorder commonly struggle with motor skills like balance, coordination, and catching or throwing objects \u2014 challenges that can affect everything from playground participation to handwriting. A meta-analysis pooling results from 10 randomized controlled trials in children with ASD (average age about 7) found that structured physical exercise programs produced large improvements across all motor skill categories tested. Notably, how often children exercised mattered more than how long the sessions were \u2014 with researchers finding diminishing returns from longer programs, suggesting that frequent, shorter sessions may be the sweet spot. The story offers parents a practical conversation-starter with their child's pediatrician or therapist.",
+          "caveats_to_flag": "Meta-analysis pooled only 256 children across 10 small trials; publication bias was detected for key outcomes; most individual studies were small; findings may not apply to all age groups within the autism spectrum or all levels of motor impairment."
+        },
+        {
+          "publication_type": "HealthyChildren.org / NPR Health",
+          "headline": "Physical Exercise Shows Large Motor Skill Benefits for Young Children With Autism, Review of Controlled Trials Finds",
+          "hook": "A systematic review of randomized controlled trials found that exercise interventions produced some of the largest effect sizes seen in pediatric ASD research for motor outcomes \u2014 and that frequency of sessions, not total duration, appears to be the key driver of balance gains.",
+          "why_it_fits": "Pediatricians, occupational therapists, and health journalists covering autism care will be interested in a meta-analysis of RCTs that provides the strongest available evidence design for an intervention question and includes a specific dosing finding.",
+          "pitch_angle": "Motor delays affect a significant proportion of children with ASD, yet exercise programming is underutilized compared to behavioral and pharmacological approaches. A new meta-analysis of 10 RCTs covering 256 children with ASD (mean age ~7) found large, statistically significant improvements in total motor skills, locomotion, object control, and balance following structured physical exercise. A meta-regression finding adds practical nuance: more frequent exercise sessions predicted better balance outcomes, but longer program duration showed diminishing returns \u2014 a signal that exercise 'dose' for children with ASD may need rethinking. The piece examines what this means for school-based physical education, therapy programming, and pediatric guidance.",
+          "caveats_to_flag": "Total pooled sample is modest (N=256 across 10 trials); publication bias detected for primary outcomes; most trials were small; the age range (up to 12) is relatively narrow; findings cannot be extrapolated to adolescents with ASD."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42336226",
+      "headline": "Breast milk contains tiny particles that may cross into babies' brains and support early neurodevelopment, emerging science suggests",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1016/j.neubiorev.2026.106829",
+      "groundbreaking": "First-in-class human study / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review synthesizes emerging preclinical and early translational research on breast milk-derived exosomes (MDEs) \u2014 nanoscale extracellular vesicles present in human breast milk \u2014 and their potential roles in infant neurodevelopment and cancer biology. Evidence reviewed suggests that MDEs can survive infant digestion, enter the bloodstream, and cross the blood-brain barrier, where they may influence neuroinflammation, synaptic plasticity, and neuronal formation. The review also explores MDEs as potential drug delivery vehicles for brain tumors. No original human infant data were collected; this is a review of mostly preclinical evidence.",
+      "why_it_matters": "If confirmed in human infant studies, these findings would add a new biological mechanism to the known benefits of breastfeeding for infant brain development \u2014 though this remains early-stage science and no clinical recommendations can yet be drawn. Parents and pediatricians should understand that breastfeeding research continues to reveal previously unknown biological complexity.",
+      "caveats": "animal or cell study, no original pediatric clinical data, narrative review (not systematic), preclinical evidence only, findings not yet validated in human infants, short follow-up",
+      "fact_check_note": "Study confirmed as a narrative review of preclinical and early translational evidence \u2014 no original human infant data collected. The abstract describes evidence that MDEs 'can withstand digestion, enter systemic circulation, localize in peripheral tissues and cross the blood-brain barrier' \u2014 this is based on preclinical models, not confirmed human infant studies. Language in summary and pitch angles carefully hedged accordingly.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Topically relevant to breastfeeding and infant brain development \u2014 a high-interest parenting subject \u2014 but scored conservatively because all evidence is preclinical; no original human infant data and no clinical takeaway yet warranted.",
+      "pitch_angles": [
+        {
+          "publication_type": "TIME Health / NPR Health",
+          "headline": "Breast Milk May Do More for Baby's Brain Than We Knew \u2014 Scientists Are Just Beginning to Understand Why",
+          "hook": "Tiny particles in breast milk called exosomes may survive a baby's digestion, travel through the bloodstream, and cross into the brain \u2014 potentially influencing early neurodevelopment in ways researchers are only beginning to map.",
+          "why_it_fits": "Health-curious general audiences and parents are fascinated by new biological discoveries about breastfeeding; this offers a compelling 'the science of breast milk keeps surprising us' narrative.",
+          "pitch_angle": "A new review of emerging science highlights a class of nanoscale particles in breast milk \u2014 called exosomes \u2014 that appear able to survive infant digestion and potentially cross into the developing brain. Early preclinical evidence suggests these particles carry signaling molecules that may support synaptic development, regulate neuroinflammation, and even influence stem cell behavior. Scientists caution that most evidence comes from animal models and cell studies, and human infant trials are still needed \u2014 but the findings add a new layer of biological complexity to the long-standing case for breastfeeding.",
+          "caveats_to_flag": "All current evidence is preclinical (animal and cell models); no human infant clinical data yet; this is a narrative review, not a systematic review or original study; no clinical recommendations should be drawn."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Behavioral Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42332189",
+      "headline": "A 2-year-old survived paralytic rabies \u2014 one of the rarest outcomes in medical history",
+      "journal": "Indian Journal of Pediatrics",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1007/s12098-026-06261-2",
+      "groundbreaking": "First-in-class human study / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Clinicians at the All India Institute of Medical Sciences, Nagpur, report a single case of a 2-year-old toddler who presented with rapidly progressive quadriparesis following a dog bite and was diagnosed with paralytic (atypical) rabies, supported by rising rabies virus neutralizing antibodies in cerebrospinal fluid and serum. Because the child had received post-exposure vaccination, standard antibody assays were confounded, posing significant diagnostic challenges. The toddler survived following six weeks of comprehensive intensive care and was successfully discharged \u2014 an extremely rare outcome given that clinical rabies encephalitis is considered nearly universally fatal once symptoms develop.",
+      "why_it_matters": "This case highlights that paralytic rabies \u2014 which lacks the classic signs of furious rabies such as hydrophobia \u2014 can be misdiagnosed in children, and that aggressive intensive care may offer a small but real chance of survival in pediatric cases. It also underscores the critical importance of immediate post-exposure prophylaxis after any animal bite in children.",
+      "caveats": "small sample (N<100), single-center, single case report \u2014 no generalizability to population outcomes, narrow age range",
+      "fact_check_note": "Case accurately described as a 2-year-old with history of dog bite, paralytic (not furious) rabies presentation, confirmed by rising CSF and serum neutralizing antibodies, surviving after six-week ICU stay. Abstract does not claim a controlled study; correctly characterized as a case report. No corrections required.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "A compelling and rare pediatric case with clear public health relevance around dog bite risk and rabies prevention in children, but it is a single case report with no generalizable population-level findings, which limits its utility for most parenting journalism outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A toddler beat rabies \u2014 here's what that means for parents worried about animal bites",
+          "hook": "Rabies is almost always fatal once symptoms appear, but a 2-year-old in India survived paralytic rabies after six weeks of intensive care \u2014 prompting questions about what makes children's cases different.",
+          "why_it_fits": "General health readers with children will be drawn to the dramatic survival story and the practical reminder about dog bite prevention and post-exposure vaccination.",
+          "pitch_angle": "Rabies encephalitis kills nearly everyone it infects after symptoms begin \u2014 but a toddler in India just survived. The atypical 'paralytic' form of rabies, which mimics other neurological illnesses and lacks the hallmark signs of hydrophobia, made diagnosis exceptionally difficult. The case, published in the Indian Journal of Pediatrics, is a reminder that dog bites in children require immediate medical evaluation and post-exposure prophylaxis, and that survival \u2014 while rare \u2014 may be possible with aggressive ICU care.",
+          "caveats_to_flag": "This is a single case report and cannot predict outcomes for other children; survival from clinical rabies remains exceedingly rare; findings are from a resource-limited setting where access to intensive care varies widely."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42334601",
+      "headline": "A simple ultrasound angle measurement could help doctors place newborn IV lines more safely on the first try",
+      "journal": "European Journal of Pediatrics",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1007/s00431-026-07072-5",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a single-center prospective study at a neonatal intensive care unit in Poland, researchers evaluated 78 neonates undergoing umbilical venous catheterization between 2021 and 2023. Using point-of-care ultrasonography, they measured the angle formed between the umbilical vein and the ductus venosus (UV-DV angle) and assessed whether this angle could predict successful catheter placement in the inferior vena cava. The UV-DV angle differed significantly between incorrectly and correctly positioned catheters (median 136.9\u00b0 vs. 157.4\u00b0, p<0.001), and both the UV-DV angle and ductus venosus caliber were independent predictors of correct positioning in multivariable analysis. Correct catheter placement was achieved on the first attempt in 73% of cases, rising to 85% after ultrasound-guided adjustment maneuvers.",
+      "why_it_matters": "Umbilical venous catheter misplacement in newborns can lead to serious complications; this finding suggests that a simple ultrasound measurement taken before or during the procedure could help neonatal clinicians predict and improve catheter placement success, potentially reducing procedural harm in critically ill newborns.",
+      "caveats": "small sample (N<100), single-center, narrow age range (neonates only), retrospectively registered clinical trial",
+      "fact_check_note": "N=78 neonates confirmed from abstract; UV-DV angle medians (136.9\u00b0 vs. 157.4\u00b0) and success rates (73% first attempt, 85% after adjustment) confirmed against abstract. No corrections required.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically meaningful for neonatal intensive care practice and relevant to neonatal patient safety, but highly technical and procedural with limited direct relevance to parenting journalism audiences; small single-center sample further limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "HealthyChildren.org / General health",
+          "headline": "A new ultrasound technique could make a common NICU procedure safer for critically ill newborns",
+          "hook": "A small but promising study found that measuring a specific angle in a newborn's blood vessels using bedside ultrasound could help doctors correctly place a critical IV line on the first try more often.",
+          "why_it_fits": "Parents of premature or critically ill newborns are often anxious about NICU procedures; a finding that improves the safety of a routine but risky procedure is directly relevant to their concerns.",
+          "pitch_angle": "Umbilical venous catheters \u2014 thin tubes inserted through a newborn's umbilical cord to deliver medications and fluids \u2014 are among the most common NICU procedures, but misplacement can cause serious complications. A new study from Poland found that measuring the angle between two abdominal blood vessels using bedside ultrasound could predict whether the catheter will land in the right spot, improving first-attempt success rates. Though the study is small and needs replication, it points toward a simple tool that could reduce procedural harm in some of the most vulnerable newborns.",
+          "caveats_to_flag": "Study included only 78 neonates at a single center in Poland; findings need validation in larger, multicenter trials before clinical adoption; procedure is relevant only to neonates in intensive care settings."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42328851",
+      "headline": "AI could soon help doctors find hidden polyps in children with rare inherited cancer syndromes \u2014 but the evidence is still thin",
+      "journal": "Current Opinion in Pediatrics",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1097/MOP.0000000000001593",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review, published in Current Opinion in Pediatrics, summarizes current evidence on the use of artificial intelligence (AI) in endoscopic surveillance for children with hereditary polyposis syndromes \u2014 rare genetic conditions that require lifelong monitoring due to elevated cancer risk. Researchers reviewed adult colonoscopy data, where AI has been shown in meta-analyses and randomized trials to improve polyp detection rates and reduce missed lesions, and capsule endoscopy studies, where AI demonstrates high sensitivity and reduced review time. However, no pediatric studies specific to hereditary polyposis syndromes currently exist, and the review concludes that pediatric-specific datasets and prospective validation studies are needed before AI tools can be implemented in this population.",
+      "why_it_matters": "Children with hereditary polyposis syndromes face a lifetime of surveillance endoscopies and elevated cancer risk; if validated in pediatric populations, AI-assisted polyp detection could meaningfully improve diagnostic consistency and reduce missed lesions in this vulnerable group.",
+      "caveats": "observational design, secondary analysis, no pediatric-specific data available \u2014 review extrapolates from adult studies, narrow age range implied by condition (pediatric polyposis), review article (not primary research)",
+      "fact_check_note": "Correctly identified as a narrative review, not a primary study. Adult-derived findings (improved adenoma detection rates, reduced missed lesions) accurately attributed to meta-analyses and RCTs in adults. Abstract explicitly states 'no studies specific to hereditary polyposis syndromes' in pediatrics. No corrections required.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to a narrow but high-stakes pediatric population (children with hereditary polyposis syndromes) and touches on the emerging AI-in-medicine trend, but is a narrative review with no pediatric primary data, limiting its immediate newsworthiness for general parenting journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "HealthyChildren.org / General health",
+          "headline": "Kids with inherited polyp disorders may one day benefit from AI-guided cancer screening \u2014 but scientists say we're not there yet",
+          "hook": "Artificial intelligence has shown real promise at catching missed polyps in adult colonoscopies, and researchers say it could transform surveillance for children born with rare hereditary polyp syndromes \u2014 if pediatric-specific studies can catch up.",
+          "why_it_fits": "Families navigating rare hereditary cancer syndromes in their children are highly engaged health consumers who follow emerging medical technology closely.",
+          "pitch_angle": "Children with hereditary polyposis syndromes must undergo repeated endoscopies throughout their lives to catch potentially cancerous polyps early. A new review in Current Opinion in Pediatrics explores whether AI tools \u2014 already proven to improve polyp detection in adult colonoscopy \u2014 could do the same for these children. The honest answer, the authors conclude, is that we don't yet know: no pediatric studies in this specific population exist. But the case for developing them is compelling, and the technology is advancing fast.",
+          "caveats_to_flag": "This is a narrative review, not a clinical trial; all supportive evidence comes from adult studies; no AI endoscopy tools are currently validated for use in children with polyposis syndromes; affects a relatively rare pediatric population."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41741000",
+      "headline": "Many Mothers Whose Babies Were Hospitalized With RSV Didn't Know a Vaccine During Pregnancy Could Have Helped",
+      "journal": "Archives of Disease in Childhood",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1136/archdischild-2025-329427",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a qualitative thematic analysis of free-text survey responses from 388 vaccine-eligible mothers of infants hospitalized with bronchiolitis, lower respiratory tract infection, or acute wheeze across 30 sites in England and Scotland between September 2024 and March 2025. The study explored barriers and facilitators to uptake of the RSVpreF (Abrysvo) maternal vaccine, which was added to the UK national immunization schedule in August 2024. Four key themes emerged: access barriers, insufficient RSV awareness, vaccine safety concerns and hesitancy, and positive perceptions of the vaccine's protective value. These themes were consistent across sociodemographic groups, and researchers found that many mothers whose infants were subsequently hospitalized had not received adequate information about the vaccine during pregnancy.",
+      "why_it_matters": "RSV is a leading cause of infant hospitalization, and a maternal vaccine is now available that can protect newborns \u2014 but this study suggests awareness gaps and access barriers are keeping many eligible pregnant women from getting it, with real consequences for infant health.",
+      "caveats": "observational design, self-reported (parent-reported) outcomes, qualitative design limits generalizability, UK-only population (findings may not apply to US context where vaccine rollout and healthcare access differ)",
+      "fact_check_note": "Abstract confirmed: N=388, qualitative thematic analysis of free-text survey responses, 30 sites in England and Scotland, infants hospitalized with bronchiolitis/LRTI/acute wheeze, four themes confirmed as described.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Addresses a high-prevalence infant health issue (RSV hospitalization) and a newly available maternal vaccine with direct, practical implications for pregnant parents and pediatricians \u2014 strong fit for parenting and public health journalism despite qualitative design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "There's a Pregnancy Vaccine That Can Protect Your Newborn From a Leading Cause of Infant Hospitalization \u2014 But Most Moms Don't Know About It",
+          "hook": "A new study of mothers whose babies were hospitalized with RSV found that many had never been told a vaccine during pregnancy could have helped protect their infant.",
+          "why_it_fits": "Parents Magazine and Today's Parent readers are pregnant or new parents who make vaccine decisions \u2014 this finding directly addresses a gap in prenatal care communication with potentially life-altering consequences.",
+          "pitch_angle": "RSV sends more infants to the hospital than almost any other illness, but a maternal vaccine (Abrysvo) added to the UK's national schedule in 2024 can pass protective antibodies to newborns before birth. A new study of 388 mothers whose babies were hospitalized found that awareness gaps, access barriers, and safety concerns prevented many from getting vaccinated during pregnancy. Though this study is from the UK, the RSV maternal vaccine is also available in the US, and awareness remains low among expectant parents.",
+          "caveats_to_flag": "Qualitative study from UK only; self-reported perspectives from mothers of hospitalized infants (not a representative sample of all pregnant women); findings reflect the first season of the UK program and may shift as awareness grows."
+        },
+        {
+          "publication_type": "NPR Health / HealthyChildren.org (AAP)",
+          "headline": "RSV Maternal Vaccine Rollout Stumbles on Awareness and Access, Study Finds",
+          "hook": "Interviews with nearly 400 mothers whose babies were hospitalized with RSV reveal that structural barriers and information gaps \u2014 not just vaccine hesitancy \u2014 are driving low uptake of a new maternal vaccine.",
+          "why_it_fits": "NPR Health and AAP's HealthyChildren.org audiences include public health-minded readers and pediatric professionals who care about vaccine uptake policy and how to counsel pregnant patients.",
+          "pitch_angle": "The UK's first season with a national RSV maternal vaccination program revealed that eligible mothers faced significant hurdles: difficulty accessing the vaccine during prenatal appointments, insufficient information from providers, and unanswered questions about safety. Researchers found these themes were consistent across sociodemographic groups, suggesting systemic \u2014 not just individual \u2014 failures. The findings carry lessons for the US, where the RSV maternal vaccine is available but uptake data remain limited.",
+          "caveats_to_flag": "UK-specific findings; participants were mothers of hospitalized infants \u2014 a higher-risk, potentially more motivated group \u2014 so results may not reflect general pregnant population attitudes; qualitative design cannot quantify how much each barrier reduces uptake."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42324079",
+      "headline": "AAP Issues Updated Policy Calling for Stronger Protections and Developmental Screening for Children Under 5 in Foster Care",
+      "journal": "Pediatrics",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1542/peds.2026-077417",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "The American Academy of Pediatrics (AAP) has released an updated policy statement \u2014 authored by its Council on Foster Care, Adoption, and Kinship Care and Section on Developmental and Behavioral Pediatrics \u2014 addressing the developmental challenges faced by children under age 5 in foster care. The statement updates prior guidance to incorporate advances in understanding of prenatal and postnatal environmental influences on early brain development, including the effects of prenatal alcohol and substance exposure, neglect, physical and sexual abuse, severe or chronic stress, family disruption, poverty, and racism. This is a policy document, not a primary research study, and is paired with a companion clinical report (PMID 42324078).",
+      "why_it_matters": "The AAP's updated stance signals that pediatricians should be actively screening young foster children for developmental delays shaped by a wide range of early adversities \u2014 including structural racism and poverty \u2014 not just abuse, which could prompt changes in how foster children are evaluated and supported at well-child visits.",
+      "caveats": "policy statement (not primary research), no original data collected, pediatric population under 5 only",
+      "fact_check_note": "Confirmed as a policy statement, not an original research study. Children under 5 in foster care confirmed as the population. Topics covered (prenatal substance exposure, chronic stress, neglect, abuse, racism, poverty) confirmed in abstract. Companion clinical report PMID confirmed as 42324078.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "AAP policy statements carry significant institutional weight and directly affect pediatric practice for a vulnerable, underserved child population \u2014 high relevance for pediatric journalism and caregiving professionals despite being a policy document rather than original research.",
+      "pitch_angles": [
+        {
+          "publication_type": "HealthyChildren.org (AAP) / NPR Health",
+          "headline": "The AAP Now Says Racism and Poverty Are Developmental Threats Pediatricians Must Screen For in Foster Kids",
+          "hook": "The American Academy of Pediatrics has updated its guidance on foster children's health to explicitly name structural racism and multigenerational poverty as developmental threats \u2014 not just abuse and neglect.",
+          "why_it_fits": "HealthyChildren.org and NPR Health audiences include pediatric professionals and policy-engaged parents who would find the AAP's expanded framing of developmental risk \u2014 beyond individual trauma to structural factors \u2014 newsworthy and practically significant.",
+          "pitch_angle": "The AAP's updated policy statement on children under 5 in foster care now formally incorporates structural racism, poverty, and prenatal substance exposure alongside abuse and neglect as factors that shape early brain development. Pediatricians are being called on to apply this expanded understanding at well-child visits for the estimated 100,000+ young children in foster care in the US. The companion clinical report provides detailed guidance on screening and intervention \u2014 a signal that the field is moving toward a more systemic view of child adversity.",
+          "caveats_to_flag": "This is a policy statement, not a new research study; it synthesizes existing evidence rather than generating new data. Applies specifically to children under 5, so implications may differ for older foster youth."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42324078",
+      "headline": "AAP Clinical Report Lays Out How Poverty, Racism, and Trauma Combine to Derail Brain Development in the Youngest Foster Children",
+      "journal": "Pediatrics",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1542/peds.2026-077418",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "The American Academy of Pediatrics released a clinical report \u2014 paired with a companion policy statement (PMID 42324079) \u2014 synthesizing research on the developmental challenges faced by children under age 5 in foster care. Authored by the AAP's Council on Foster Care, Adoption, and Kinship Care and Section on Developmental and Behavioral Pediatrics, the report reviews how prenatal and postnatal adversities including neglect, abuse, family disruption, attachment disruption, structural racism, and multigenerational poverty affect early brain development. The report also reviews evidence on interventions that support resilience in this population. This is a clinical guidance document, not a primary research study.",
+      "why_it_matters": "This report gives pediatricians \u2014 and foster and kinship caregivers \u2014 a comprehensive, evidence-based framework for understanding and addressing the wide-ranging developmental risks that accumulate for young children in foster care, including factors often overlooked in clinical settings such as attachment disruption at placement and structural racism.",
+      "caveats": "clinical report (not primary research), no original data collected, narrow age range (under 5 years only)",
+      "fact_check_note": "Confirmed as a clinical report synthesizing existing research, not a primary study. Under-5 foster care population confirmed. Topics including attachment disruption, racism, poverty, abuse, neglect, and resilience interventions confirmed in abstract. Companion policy statement PMID confirmed as 42324079.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "AAP clinical reports directly shape pediatric practice for a high-need, vulnerable population; the breadth of developmental risk factors covered and the inclusion of structural racism and attachment disruption make this high-value for both pediatric and parenting journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "NYT Parenting / NPR Health",
+          "headline": "What Happens to a Baby's Brain When the State Becomes Their Parent",
+          "hook": "A sweeping new AAP clinical report finds that for children under 5 in foster care, the act of removal itself \u2014 not just prior abuse \u2014 can disrupt brain development by severing early attachment bonds.",
+          "why_it_fits": "NYT Parenting and NPR Health readers engage deeply with child development science and child welfare policy; the finding that foster placement itself is a developmental disruption \u2014 not just a rescue \u2014 offers a nuanced, counterintuitive frame.",
+          "pitch_angle": "The American Academy of Pediatrics' updated clinical report on young children in foster care makes clear that the developmental toll begins before placement \u2014 with prenatal exposures and chronic stress \u2014 and continues through the disruption of early attachment that placement itself causes. The report calls for pediatricians to account for racism and poverty as developmental threats alongside individual trauma. For journalists, it opens a rich conversation about what the child welfare system owes children neurologically, not just legally.",
+          "caveats_to_flag": "This is a synthesis document, not new primary research; it applies specifically to children under 5, and evidence quality for some recommendations varies. Journalists should distinguish between well-established findings (e.g., abuse and brain development) and emerging frameworks (e.g., structural racism as a developmental variable in clinical assessment)."
+        },
+        {
+          "publication_type": "HealthyChildren.org (AAP) / General health",
+          "headline": "AAP to Pediatricians: Young Children in Foster Care Need Developmental Screening That Goes Beyond Standard Checkups",
+          "hook": "A new AAP clinical report details how layers of adversity \u2014 from prenatal drug exposure to placement-related attachment disruption \u2014 make children under 5 in foster care among the most developmentally vulnerable patients in any pediatric practice.",
+          "why_it_fits": "Pediatricians and foster/kinship caregivers reading HealthyChildren.org or general health outlets need practical guidance on what to watch for and how to advocate for these children at every well-child visit.",
+          "pitch_angle": "The AAP's clinical report outlines a wide spectrum of developmental risks specific to young foster children \u2014 including effects of prenatal substance exposure, chronic stress, loss of primary caregivers at placement, and systemic poverty \u2014 and reviews which interventions show evidence of supporting resilience. Foster and kinship parents are often the first to notice developmental concerns, and this report gives pediatricians a roadmap for partnering with them. It also underscores that standard developmental screening tools may not fully capture what these children are experiencing.",
+          "caveats_to_flag": "Clinical guidance document synthesizing existing literature, not a new study; under-5 age focus means implications may not apply to older children in foster care."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42332247",
+      "headline": "ADHD and Ultra-Processed Food: Does a Child's Diet Drive Symptoms, or Do ADHD Symptoms Drive Poor Eating?",
+      "journal": "Pediatric Research",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1038/s41390-026-05241-8",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This is an invited commentary \u2014 not a primary research study \u2014 published in Pediatric Research by a single author from Imperial College London and the University of Cape Town. The piece examines the bidirectional relationship between ADHD in children and consumption of ultra-processed foods (UPF), raising the question of whether UPF consumption contributes to ADHD symptoms or whether ADHD-related impulsivity and executive function challenges drive children toward ultra-processed diets. No original data, participant sample, or age range of children studied is reported in the abstract, as this is an opinion/commentary piece. The full text is not available from the abstract alone.",
+      "why_it_matters": "The chicken-or-egg question about ADHD and ultra-processed food has real implications for how parents and clinicians interpret diet-behavior links \u2014 if ADHD drives food choices rather than the reverse, dietary interventions alone are unlikely to address the underlying condition.",
+      "caveats": "commentary (no primary data), no sample size, no original study design, single author, abstract provides insufficient detail to verify claims",
+      "fact_check_note": "The abstract contains only a title, author affiliations, DOI, and conflict of interest statement \u2014 no methods, results, or conclusions are available to verify. This is confirmed as a commentary or editorial piece based on the format and absence of structured abstract. No original data, N, or age range of children can be reported.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "The ADHD-diet connection is a high-interest parenting topic and the bidirectionality framing is counterintuitive and journalistically useful, but this is a commentary with no original data \u2014 limiting it to a framing or explainer piece rather than a standalone news story.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent / General health",
+          "headline": "Before You Overhaul Your ADHD Child's Diet, Read This",
+          "hook": "A new expert commentary asks whether kids with ADHD eat more junk food because of their symptoms \u2014 not the other way around \u2014 complicating the popular idea that diet drives attention problems.",
+          "why_it_fits": "Parents of children with ADHD frequently encounter advice about dietary changes, and this reframing \u2014 that ADHD may cause the diet, not the reverse \u2014 gives journalists a practical, counterintuitive hook that validates parental experience while tempering unrealistic expectations.",
+          "pitch_angle": "Ultra-processed food and ADHD are frequently linked in headlines, but a commentary in Pediatric Research raises a rarely-discussed question: do children with ADHD eat more ultra-processed foods because impulsivity and executive function difficulties make healthy eating harder, rather than because poor diet causes their symptoms? Journalists could use this as the basis for a broader explainer on the evidence \u2014 and limits \u2014 of dietary interventions for ADHD, drawing on pediatric nutrition experts and ADHD specialists for balance.",
+          "caveats_to_flag": "This is a commentary, not a research study \u2014 no original data, no sample size, no participant age range is reported. Journalists should use this as a framing device and seek comment from independent pediatric dietitians and ADHD researchers before making any claims about the direction of the diet-ADHD relationship."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356409",
+      "headline": "Plant-derived 'ecdysteroid' supplements prevented obesity in rats \u2014 but also disrupted testosterone levels in unexpected ways",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 21",
+      "doi": "10.3390/nu18122023",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers gave male rats two plant-derived compounds \u2014 20-hydroxyecdysone (20E) and calonysterone (CAL) \u2014 under normal and high-fat, high-sugar dietary conditions for 12 weeks. Both compounds prevented diet-induced weight gain and muscle loss, but also significantly reduced plasma testosterone levels in both normal and obese animals. The findings suggest these supplements, which are increasingly marketed for muscle building, may have unintended hormonal effects that are not yet fully understood.",
+      "why_it_matters": "Phytoecdysteroid supplements are increasingly sold and used by adolescents and young adults seeking performance or body composition benefits; these findings suggest potential hormonal effects that warrant caution, though human data are entirely absent.",
+      "caveats": "animal or cell study, narrow age range, small sample (N<100)",
+      "fact_check_note": "This is an animal (rat) study only. No human participants. Study population is male rats only \u2014 no female animals studied. All findings are from a rodent model and cannot be extrapolated to children or adolescents without human data.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "Animal-only study with no pediatric population; weak direct relevance to children's health journalism, though marginal hook exists around supplement marketing to teens.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "That 'Plant Steroid' Supplement Your Teen Wants? New Animal Research Raises Hormone Questions",
+          "hook": "Compounds marketed as natural muscle-builders prevented obesity in rats \u2014 but also disrupted testosterone levels in ways scientists don't yet understand.",
+          "why_it_fits": "General health readers with teenagers interested in fitness supplements would benefit from a cautionary framing around emerging supplement safety data.",
+          "pitch_angle": "Phytoecdysteroids like 20-hydroxyecdysone are increasingly found in sports and fitness supplements marketed to young people. A new rat study found these compounds prevented obesity and muscle loss but unexpectedly reduced testosterone levels \u2014 a finding the researchers themselves said warrants caution. No human data exist yet, but the hormonal signal is worth tracking.",
+          "caveats_to_flag": "This is a rat study only; effects in humans \u2014 especially children and adolescents \u2014 are completely unknown. Journalists should make clear this does not establish human risk and that no clinical action is warranted."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42323577",
+      "headline": "Using teens' love of gaming to get them active and connected may be feasible \u2014 but researchers say a bigger test is needed",
+      "journal": "BMC Pediatrics",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1186/s12887-026-07172-z",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Danish researchers conducted a combined evaluability assessment and single-arm feasibility study of the eHOOD intervention, which uses adolescents' motivation for gaming to engage them in a structured after-school program combining physical activity, social connection, communal cooking, and health education. Thirteen adolescents aged 13\u201316 years who were described as facing social challenges participated over 25 weeks, meeting four hours weekly with a coach and pedagogue. The study found the intervention and evaluation design to be feasible and acceptable, with initial improvements observed in wellbeing scores; however, with only 13 participants and no control group, the study was explicitly designed to test feasibility rather than establish effectiveness.",
+      "why_it_matters": "Adolescents facing social isolation and poor mental wellbeing are a growing public health concern, and interventions that meet teens where they are \u2014 including through gaming \u2014 represent a promising but underexplored approach that warrants rigorous evaluation.",
+      "caveats": "small sample (N<100), single-center, observational design, no control group, self-reported (parent-reported) outcomes, short follow-up, retrospectively registered, feasibility study only \u2014 not powered to detect effectiveness",
+      "fact_check_note": "N=13 adolescents aged 13\u201316 confirmed from abstract; 25-week program duration and four hours per week confirmed; intervention described accurately as combining gaming, physical activity, social activities, and health education. Study correctly characterized as a feasibility study, not an effectiveness trial. No corrections required.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Addresses the highly relevant intersection of gaming, teen mental health, and social isolation \u2014 a topic of strong parenting journalism interest \u2014 but the N=13 feasibility design with no control group means findings are extremely preliminary and cannot support effectiveness claims.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Could your teen's video game habit be the key to getting them healthier and more connected?",
+          "hook": "A Danish program is using teens' passion for gaming as a hook to get socially isolated adolescents moving, cooking, and building friendships \u2014 and early results suggest it's worth a closer look.",
+          "why_it_fits": "Parents of socially withdrawn or gaming-heavy teens are actively looking for strategies that work with their teenager's interests rather than against them.",
+          "pitch_angle": "Instead of fighting teens' love of gaming, a Danish after-school program called eHOOD is harnessing it. The program pairs gaming sessions with physical activity, communal cooking, and social skill-building for adolescents who are struggling to connect. A small pilot study with 13 teens aged 13\u201316 found the approach was feasible and that participants showed early signs of improved wellbeing \u2014 though researchers are clear that a much larger study is needed before anyone can call it effective. Still, the concept points toward a promising new direction for reaching teens who resist more traditional interventions.",
+          "caveats_to_flag": "Only 13 participants; no control group; study was designed to test feasibility, not effectiveness; set in Denmark, which may not generalize to other cultural contexts; wellbeing improvements were preliminary and uncontrolled."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42319609",
+      "headline": "Being bullied may not cause lasting loneliness in kids \u2014 new large meta-analysis finds the long-term effect is surprisingly small",
+      "journal": "Journal of Youth and Adolescence",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1007/s10964-026-02376-z",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Major child health or parenting implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers conducted a meta-analysis of 30 longitudinal studies (32 independent samples, N=37,952 children and adolescents) examining whether peer victimization \u2014 bullying \u2014 predicts loneliness over time. While the raw correlation between bullying and later loneliness was moderate (r=0.26), once researchers controlled for how lonely children already were at the start of the study, the predictive effect became trivial (partial r=0.07). The association weakened further over longer time intervals, suggesting that bullying's independent long-term contribution to loneliness may be much smaller than widely assumed.",
+      "why_it_matters": "This finding challenges the widespread assumption that peer victimization is a primary long-term driver of childhood loneliness, which has important implications for how schools and families prioritize and design anti-bullying interventions. It does not minimize the harm of bullying, but suggests that children who are already lonely may be at greatest risk and that pre-existing loneliness warrants equal attention.",
+      "caveats": "secondary analysis, observational design, self-reported (parent-reported) outcomes, heterogeneity across included studies, findings may not apply equally across cultural contexts",
+      "fact_check_note": "Zero-order r=0.26 and partial r=0.07 both reported as statistically significant (p<.001); direction and magnitude verified against abstract. Age range described as 'children and adolescents' \u2014 specific age range not disaggregated in abstract. Moderation by European samples and peer-nominated measures verified.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Large pooled sample (N=37,952), directly counterintuitive finding on a high-prevalence child health issue (bullying and loneliness) with major implications for parenting and school intervention design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Bullying and Loneliness: The Link May Be Smaller Than We Thought",
+          "hook": "A sweeping new analysis of nearly 38,000 children found that peer bullying's long-term effect on loneliness \u2014 once you account for how lonely a child already was \u2014 is surprisingly small.",
+          "why_it_fits": "Parents are deeply worried about bullying's lasting psychological damage; this nuanced finding reframes where parents and schools should actually focus their attention.",
+          "pitch_angle": "A new meta-analysis pooling data from 30 studies and nearly 38,000 children and adolescents found that while bullying and loneliness are correlated, bullying itself adds only a trivial amount to a child's loneliness over time once baseline loneliness is taken into account. The finding suggests that children who enter social situations already feeling lonely may be the group most in need of support \u2014 not just those being actively victimized. Experts say this doesn't let bullying off the hook, but it does shift the conversation about what prevention efforts should prioritize.",
+          "caveats_to_flag": "Meta-analysis pools studies with different methods and populations; specific age ranges not reported in the abstract; observational data cannot prove causation; effect varies by cultural context and measurement type."
+        },
+        {
+          "publication_type": "NPR Health / HealthyChildren.org (AAP)",
+          "headline": "Anti-Bullying Programs May Be Missing a Key Factor: Children Who Were Already Lonely",
+          "hook": "Researchers who pooled nearly four decades of longitudinal bullying data found that a child's pre-existing loneliness \u2014 not just whether they are bullied \u2014 may be the stronger predictor of long-term social isolation.",
+          "why_it_fits": "Public health and pediatric audiences are invested in evidence-based intervention design; this finding has direct implications for how schools and clinicians screen and support at-risk children.",
+          "pitch_angle": "A meta-analysis of 30 longitudinal studies covering nearly 38,000 children and adolescents found that peer victimization's independent predictive effect on later loneliness is statistically significant but practically trivial (partial r=0.07) once baseline loneliness is controlled. The researchers caution that intervention strategies targeting bullying as the primary cause of loneliness may need re-examination. Pediatricians and school counselors may want to screen for loneliness directly, rather than treating it solely as a downstream consequence of victimization.",
+          "caveats_to_flag": "Observational and secondary analysis design; heterogeneity across studies; specific age ranges of participants not disaggregated; findings varied by region and measurement method."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Behavioral Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42319463",
+      "headline": "A Sorghum-Based Drink Improved Cholesterol and Insulin Markers in Overweight Adults \u2014 But Kids Weren't in the Study",
+      "journal": "European Journal of Nutrition",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1007/s00394-026-04019-2",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a single-blind, randomized, placebo-controlled trial, 51 overweight adults (N=51; no age range specified for children \u2014 adult population only) were assigned to consume either a phenolic-rich extruded BRS 305 sorghum beverage or a control beverage daily for 10 weeks alongside a calorie-restricted diet. Participants drinking the sorghum beverage showed improvements in insulin levels, triglycerides, HOMA-IR, HDL cholesterol, and fecal markers including reduced pH and increased acetic acid content, compared to the control group. The study found no pediatric participants; all participants were adults with excess body weight.",
+      "why_it_matters": "While this is an adult study, sorghum's profile as an affordable, phenolic-rich grain with potential cardiometabolic benefits could have longer-term relevance for family nutrition research \u2014 though no pediatric evidence currently supports its use in children.",
+      "caveats": "small sample (N<100), single-blind (not double-blind), no pediatric population, short follow-up, adult study extrapolated to children without pediatric data, narrow age range not specified",
+      "fact_check_note": "N=51 adults; no pediatric participants. Study is single-blind, not double-blind as might be assumed from 'placebo-controlled' framing. Abstract confirms single-blind design explicitly. No age range of child participants because there are none \u2014 adult-only study.",
+      "excluded": false,
+      "relevance_score": 2,
+      "relevance_score_reason": "Adult-only RCT with no pediatric population; while sorghum nutrition is an interesting topic, this study provides no direct evidence applicable to children's health journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Could a Sorghum Drink Improve Cholesterol and Blood Sugar? A Small Adult Trial Says Maybe",
+          "hook": "A randomized trial found that adults who drank a phenolic-rich sorghum beverage for 10 weeks saw improvements in cholesterol, insulin, and gut health markers \u2014 though the study was small and in adults only.",
+          "why_it_fits": "General health readers interested in functional foods and family nutrition may find this a useful preview of emerging grain-based beverage research.",
+          "pitch_angle": "Brazilian researchers ran a 10-week placebo-controlled trial giving 51 overweight adults a daily beverage made from a polyphenol-rich sorghum variety. Those drinking the sorghum beverage showed improvements in insulin resistance, triglycerides, and HDL cholesterol compared to the control group. Sorghum is already a staple grain in parts of Africa and Latin America, and researchers suggest its bioactive compounds \u2014 including flavonoids and tannins \u2014 may support gut and cardiometabolic health. However, the study involved only adults, was small, and used a calorie-restricted diet alongside the beverage, making it difficult to isolate sorghum's effects.",
+          "caveats_to_flag": "Adult-only study (N=51); single-blind design; short 10-week follow-up; calorie restriction was concurrent, so sorghum's independent effect cannot be fully isolated. No pediatric evidence. Findings should not be applied to children."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42335673",
+      "headline": "Combining chitosan and low-dose radiation could let food makers slash the nitrites in deli meats while still blocking botulism",
+      "journal": "Meat Science",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1016/j.meatsci.2026.110162",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Brazilian food scientists tested whether combining chitosan (a natural polymer), reduced sodium nitrite levels, and gamma irradiation could effectively control Clostridium botulinum in mortadella \u2014 a processed meat commonly consumed by children \u2014 while preserving food quality. Across multiple treatment combinations tested in laboratory conditions over 30 days at refrigerator temperature, they found that 1.5% chitosan combined with just 50 mg/kg nitrite (one-third of the standard 150 mg/kg dose) and 2 kGy of irradiation effectively eliminated viable C. botulinum spores. This is a food science laboratory study, not a human clinical trial.",
+      "why_it_matters": "Processed meats including mortadella and bologna are frequently eaten by school-age children; if this preservation strategy were validated and adopted by industry, it could reduce children's dietary nitrite exposure while maintaining food safety \u2014 though this research is at an early laboratory stage.",
+      "caveats": "animal or cell study, short follow-up, small sample (N<100), observational design",
+      "fact_check_note": "This is a food science laboratory study \u2014 no human participants. 'First-in-class human study' groundbreaking label was removed as inapplicable; the study is laboratory/food science in design. The study does not involve children directly but has potential downstream relevance to children's processed meat consumption.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Laboratory food science study with no human participants; indirect relevance to children's nutrition through potential future reduction of nitrites in processed meats children commonly eat, but far from clinical or policy application.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Could a Natural Coating and Radiation Help Make Kids' Deli Meats Safer \u2014 With Less Nitrite?",
+          "hook": "A new food science study suggests combining chitosan and low-dose irradiation could let manufacturers cut nitrites in processed meats by two-thirds without sacrificing food safety.",
+          "why_it_fits": "Parents concerned about nitrites and processed meat in their children's lunchboxes would find this early-stage research promising, especially given ongoing debate about nitrite exposure in kids' diets.",
+          "pitch_angle": "Processed meats like bologna and mortadella are a lunchbox staple for millions of children, but they contain sodium nitrite \u2014 a preservative that has raised long-term health questions. A new laboratory study found that pairing chitosan, a natural compound, with low-dose gamma irradiation effectively controlled dangerous botulism bacteria at just one-third the usual nitrite level. The research is preliminary and laboratory-based, but it points toward a possible future path for safer kids' deli meats.",
+          "caveats_to_flag": "Laboratory study only \u2014 no human subjects, no clinical trials, not yet approved or implemented in any food production. Gamma irradiation of food has regulatory and consumer acceptance hurdles. Findings need independent replication."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    }
+  ]
+}
