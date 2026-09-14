@@ -33,11 +33,35 @@ Can also be triggered manually via **Actions -> Children's & Pediatric Health Re
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Pediatrics | 81 | 2 (chunks 1-2) |
+| Pediatrics | 86 | 2 (chunks 1-2) |
 | Behavioral Sciences | 89 | 2 (chunks 1-2) |
 | Nutritional Sciences | 62 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+The journal CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` originally generated them from a source workbook that no longer exists, so re-running it would wipe hand-added rows. Edit the CSVs directly.
+
+## Journal list audit (2026-09-14)
+
+Method: pulled OpenAlex's top sources for this digest's subject areas over the prior year, diffed them against the CSVs, and kept only titles PubMed actually indexes (listed in NCBI's journal catalog with PubMed articles in the last 12 months). Because every row's full weekly output enters the digest with no topic filter, only journals whose whole output is pediatric were considered.
+
+Added to `Pediatrics.csv` (neonatology and child development were the thinnest areas):
+
+| Journal | ISSN (Online) | PubMed articles/yr |
+|---|---|---:|
+| Journal of Perinatology | 1476-5543 | 591 |
+| Early Human Development | 1872-6232 | 202 |
+| Developmental Science | 1467-7687 | 196 |
+| Advances in Neonatal Care | 1536-0911 | 120 |
+| Journal of Child Language | 1469-7602 | 107 |
+
+Notable exclusions:
+- **Not usable in PubMed** - Journal of Neonatal Nursing, Cognitive Development, First Language, Reading and Writing, Reading Psychology, Journal of Motor Learning and Development, and Behavioral Interventions have zero or near-zero PubMed articles in the past year, so the pipeline could never find them.
+- **Education research, not child health** - Language, Speech, and Hearing Services in Schools; Annals of Dyslexia; Journal of Deaf Studies and Deaf Education; Behavior Analysis in Practice.
+- **Off-beat or mostly adult** - Journal of Adolescent and Young Adult Oncology (ages 15-39, mostly adult oncology), Clinical Linguistics & Phonetics, Psychology of Sport and Exercise, Contraception and Reproductive Medicine, cereal and food-chemistry titles.
+- **Non-English or not indexed** - a batch of Indonesian and Russian education/psychology journals that OpenAlex lumps into these subject areas.
+
+No mega-journals surfaced in this pass. Pediatrics grew from 81 to 86 journals (about 6%), so the workflow chunking is unchanged.
 
 ## Manual Trigger
 
