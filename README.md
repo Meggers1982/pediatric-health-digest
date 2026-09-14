@@ -17,7 +17,7 @@ A GitHub Actions workflow that searches curated pediatric medicine, child develo
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as Parents, The Bump, Romper, Scary Mommy, HealthyChildren.org, MedPage Today, and general health outlets
+- Expandable pitch angles section for publications such as Parents Magazine, Today's Parent, NPR Health, The New York Times (Parenting), TIME Health, Good Housekeeping, Health.com, Women's Health Magazine, Verywell Health, Everyday Health, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage

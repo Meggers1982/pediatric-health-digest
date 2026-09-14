@@ -411,7 +411,7 @@ Abstract: {s['abstract']}
 
     prompt = f"""You are a science writer and editor for a Children's & Pediatric Health Research Digest, writing for a journalist audience covering pediatric medicine, child development, child behavior, child nutrition, and family health.
 
-Your readers pitch to publications like Parents Magazine, Today's Parent, NPR Health, The New York Times (Parenting), HealthyChildren.org (AAP), TIME Health, and general health outlets with parenting-focused coverage.
+Your readers pitch to publications like Parents Magazine, Today's Parent, NPR Health, The New York Times (Parenting), TIME Health, Good Housekeeping, Health.com, Women's Health Magazine, Verywell Health, Everyday Health, and general health outlets with parenting-focused coverage.
 
 For each study below, return a single JSON array. Each object must have exactly these keys:
 
@@ -431,7 +431,7 @@ For each study below, return a single JSON array. Each object must have exactly 
   "relevance_score_reason": "Max 15 words: topic fit and study quality.",
   "pitch_angles": [
     {{
-      "publication_type": "e.g. Parents Magazine / Today's Parent / NPR Health / NYT Parenting / HealthyChildren.org / TIME Health / General health",
+      "publication_type": "e.g. Parents Magazine / Today's Parent / NPR Health / NYT Parenting / TIME Health / Good Housekeeping / Health.com / Women's Health / Verywell Health / Everyday Health / General health",
       "headline": "Publication-appropriate headline",
       "hook": "One sentence opening leading with the surprising or useful finding",
       "pitch_angle": "2 sentences max: what happened, why it matters for parents or children's health, practical or developmental hook"
