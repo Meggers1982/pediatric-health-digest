@@ -1,64 +1,130 @@
 {
-  "last_updated": "2026-09-29T16:48:58.654301+00:00",
-  "total_studies": 290,
+  "last_updated": "2026-10-01T16:55:13.341813+00:00",
+  "total_studies": 293,
   "new_this_run": 3,
   "studies": [
     {
       "pmid": "42808189",
-      "headline": "A Mediterranean-Style Diet May Speed Up Behavioral Improvements in Young Children With Autism",
+      "headline": "A Mediterranean-Style Diet May Speed Up Behavior Improvements in Kids With Autism \u2014 by Months",
       "journal": "Journal of Paediatrics and Child Health",
       "pubdate": "2026 Sep 29",
       "doi": "10.1111/jpc.70606",
-      "groundbreaking": "Major child health or parenting implication / Counterintuitive finding",
+      "groundbreaking": "Major child health or parenting implication / First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Turkey conducted a retrospective propensity score-matched cohort study of 188 children with autism spectrum disorder (ASD), comparing 94 children following a Mediterranean-style dietary plan called MIND-DASE to 94 matched controls receiving standard care. Behavioral outcomes were assessed using the Aberrant Behavior Checklist (ABC) and Autism Treatment Evaluation Checklist (ATEC) at baseline, 6 months, and 12 months. Children on the MIND-DASE diet showed significantly greater reductions in total aberrant behavior scores at 6 months (-18.4 vs. -3.6), with earlier improvements in irritability and hyperactivity compared to controls.",
-      "why_it_matters": "For families of children with autism, early behavioral improvement is a pressing concern \u2014 these findings suggest that a structured dietary change may accelerate the timeline of behavioral gains, though causation cannot be established from this design.",
-      "caveats": "observational design, retrospective, single-center, self-reported (parent-reported) outcomes, short follow-up, narrow age range (unspecified), propensity matching does not eliminate confounding",
+      "summary": "Researchers tested a novel Mediterranean-style dietary model (MIND-DASE) in a propensity score-matched retrospective cohort study of 188 children with autism spectrum disorder (ages not specified in abstract beyond pediatric), comparing 94 diet-adherent children to 94 matched non-compliant controls over 12 months. The diet group showed significantly faster reductions in aberrant behaviors \u2014 including irritability and hyperactivity \u2014 at 6 months compared to controls, even though both groups showed similar developmental gains by 12 months. The findings suggest the dietary intervention may act as an early accelerator of behavioral improvement rather than a replacement for standard care.",
+      "why_it_matters": "For parents of children with ASD, these findings suggest that a structured Mediterranean-style diet may help reduce challenging behaviors months sooner than standard care alone \u2014 though the observational design means causation cannot be confirmed.",
+      "caveats": "observational design, retrospective cohort, single-center, parent-reported outcomes, narrow age range (pediatric but age range unspecified), propensity matching does not eliminate confounding, short follow-up",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "ASD behavioral intervention with dietary angle; high parenting relevance, but observational limits causal claims.",
+      "relevance_score_reason": "ASD + child nutrition + behavioral outcome; observational design and missing age range limit score.",
       "pitch_angles": [
         {
           "publication_type": "Parents Magazine / Today's Parent",
           "headline": "Could a Mediterranean Diet Help Kids With Autism Behave Better \u2014 Faster?",
-          "hook": "A new study found that children with autism who followed a structured Mediterranean-style eating plan showed significantly faster reductions in irritability and hyperactivity than children who didn't.",
-          "pitch_angle": "Researchers matched 94 children with autism following the MIND-DASE diet against 94 peers receiving standard care, and found the diet group improved on behavioral scores nearly five times more in the first six months. Experts caution this is early observational evidence \u2014 not a prescription \u2014 but the findings add to growing interest in how food patterns may support neurodevelopmental health."
+          "hook": "A new study found that children with autism who followed a Mediterranean-style diet showed dramatically faster reductions in irritability and hyperactivity than those who didn't \u2014 within just six months.",
+          "pitch_angle": "Researchers matched 94 diet-following children with autism against 94 similar children not following the diet and found behavior improved significantly faster in the diet group. While the study can't prove the diet caused the change, it opens a practical, food-based conversation for families navigating autism care."
         },
         {
-          "publication_type": "Verywell Health / Everyday Health",
-          "headline": "A Mediterranean Diet for Kids With Autism: What a New Study Found \u2014 and What It Can't Prove",
-          "hook": "Children with autism who followed a specific Mediterranean-style diet showed faster behavioral improvements in a new study, but scientists say parents shouldn't read it as a cure.",
-          "pitch_angle": "The propensity-matched study of 188 children found the MIND-DASE dietary group reduced aberrant behavior scores significantly more within six months compared to matched controls \u2014 but the retrospective, single-center design means diet choices and other family factors could still explain the difference. Pediatric dietitians say the study is a meaningful signal, not a treatment directive."
+          "publication_type": "Verywell Health / Health.com",
+          "headline": "A Special Mediterranean Diet May Fast-Track Behavior Improvements in Children With Autism",
+          "hook": "Standard care eventually helps children with autism develop \u2014 but a new study suggests a Mediterranean-style diet could accelerate behavioral gains by months.",
+          "pitch_angle": "The MIND-DASE dietary model was associated with significantly faster reductions in aberrant behaviors including irritability and hyperactivity at six months, compared to a matched control group receiving standard care. Experts note the findings are preliminary and observational, but point to diet as a potentially underexplored complement to autism treatment."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Pediatrics",
       "chunk": "1/2",
       "status": "new"
     },
     {
+      "pmid": "42810612",
+      "headline": "Many Moms Who Say Their Baby Sleeps Alone in a Crib Report the Baby Actually Sleeps in a Bed",
+      "journal": "The Journal of Pediatrics",
+      "pubdate": "2026 Sep 29",
+      "doi": "10.1016/j.jpeds.2026.115354",
+      "groundbreaking": "Major child health or parenting implication / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using national U.S. data from the Pregnancy Risk Assessment Monitoring System (2016\u20132021), researchers analyzed infant sleep reports from 181,075 mothers of term-born infants and found that 39.4% of mothers who said their infant 'often' slept alone in a crib also reported that the infant's usual sleep surface was a bed. The study also found that infants who 'always' slept alone in a crib had a 74% higher associated risk of earlier breastfeeding cessation compared to those who 'never' slept alone. The findings highlight significant inconsistency in how mothers describe infant sleep and raise questions about whether current safe sleep guidance may inadvertently shorten breastfeeding.",
+      "why_it_matters": "The disconnect between how mothers describe safe sleep practices and what they report actually doing suggests that pediatricians and public health messaging may be working with inaccurate data \u2014 and that current safe sleep recommendations may carry an unintended trade-off with breastfeeding duration.",
+      "caveats": "observational design, self-reported (parent-reported) outcomes, descriptive statistics, causal relationship explicitly disclaimed by authors",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "High-prevalence infant safety issue; large national sample; counterintuitive breastfeeding trade-off finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "NPR Health / NYT Parenting",
+          "headline": "Safe Sleep Rules May Be Cutting Breastfeeding Short \u2014 and Moms' Reports Don't Match Their Habits",
+          "hook": "A national study of over 181,000 mothers found that nearly 40% who said their baby 'often' slept alone in a crib also reported that a bed was the baby's usual sleep surface \u2014 suggesting a major gap between what parents say and what they do.",
+          "pitch_angle": "The research also found that babies who always slept alone in a crib were 74% more likely to stop breastfeeding earlier \u2014 raising uncomfortable questions about whether safe sleep guidelines, while critical for preventing infant death, may carry unintended costs for nursing families. The findings underscore a long-standing tension in infant health policy that public health officials have largely avoided confronting."
+        },
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Most Parents Think They're Following Safe Sleep Rules \u2014 But New Data Says Otherwise",
+          "hook": "Nearly 4 in 10 moms who said their baby 'often' slept alone in a crib admitted in the same survey that the baby's usual sleep spot was actually a bed.",
+          "pitch_angle": "A massive national study found widespread inconsistency in how mothers describe their infant's sleep arrangements, with sofa-sleeping \u2014 one of the most dangerous sleep surfaces \u2014 frequently underreported. Researchers also found that strictly following alone-in-crib guidelines was associated with babies stopping breastfeeding sooner, a nuance that pediatricians may need to address more directly with families."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42804202",
+      "headline": "Pediatricians May Have New Tools to Help Families Reduce Risky Gun Behaviors at Home",
+      "journal": "JAMA Pediatrics",
+      "pubdate": "2026 Sep 28",
+      "doi": "10.1001/jamapediatrics.2026.4461",
+      "groundbreaking": "Major child health or parenting implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers from the University of Colorado and University of Pittsburgh reviewed and proposed a novel construct for understanding risky firearm behaviors among children and adolescents, along with promising intervention strategies. The commentary does not report a specific N or age range of child participants, as it is a conceptual and review piece rather than an original study. The authors argue that reframing how clinicians identify and address risky gun behaviors \u2014 beyond safe storage alone \u2014 opens innovative opportunities for pediatric-based prevention.",
+      "why_it_matters": "With firearm injury remaining a leading cause of death in U.S. children and teens, a new framework for how pediatricians can identify and address risky gun behaviors in families could meaningfully shape clinical guidance and parent conversations.",
+      "caveats": "commentary/opinion piece, no primary data, no defined study population, no N reported, short follow-up",
+      "fact_check_note": "Abstract provides no sample size, age range, or original data \u2014 this is a commentary/conceptual piece, noted accordingly.",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-prevalence child safety issue in top journal; commentary limits scoring.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "Your Pediatrician May Soon Be Asking More Questions About Guns in Your Home \u2014 Here's Why",
+          "hook": "A new framework published in JAMA Pediatrics suggests that safe storage conversations are only part of what doctors should be doing to protect kids from gun injuries.",
+          "pitch_angle": "Pediatric researchers argue that risky firearm behaviors in families go beyond whether guns are locked up, and that doctors need new tools to identify and address a fuller picture of risk. For parents, this could mean more direct \u2014 and potentially more useful \u2014 conversations with their child's pediatrician about gun safety."
+        },
+        {
+          "publication_type": "NPR Health / NYT Parenting",
+          "headline": "Rethinking How Pediatricians Talk About Guns: A New Approach to a Leading Cause of Child Death",
+          "hook": "Firearm injury is now a top killer of U.S. children, and researchers say the clinical tools pediatricians use to address it haven't kept pace.",
+          "pitch_angle": "A commentary in JAMA Pediatrics proposes a novel construct for categorizing risky firearm behaviors that could help clinicians go beyond standard safe-storage counseling. The piece arrives as pediatric firearm prevention becomes an increasingly urgent public health priority, raising questions about what role doctors should play in gun safety conversations."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Pediatrics",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42788798",
-      "headline": "The Most-Used Tool for Assessing Sexual Behavior Problems in Youth Has Significant Measurement Flaws, Study Finds",
+      "headline": "A Widely Used Tool for Assessing Sexual Behavior Problems in Youth May Have Serious Measurement Flaws",
       "journal": "Journal of Child Sexual Abuse",
       "pubdate": "2026 Sep 25",
       "doi": "10.1080/10538712.2026.2736208",
-      "groundbreaking": "Major child health or parenting implication",
+      "groundbreaking": "Major child health or parenting implication / Overturns prior research",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used exploratory factor analysis to evaluate the Adolescent Clinical Sexual Behavior Inventory (ACSBI) in a sample of 236 male youth (referred by juvenile court for treatment of problematic sexual behavior). The study found significant structural and conceptual shortcomings in the tool, suggesting it may not reliably or validly assess problematic sexual behavior in this population. The authors call for development of more psychometrically sound, developmentally sensitive assessment measures.",
-      "why_it_matters": "Clinicians and juvenile justice systems relying on the ACSBI to assess and guide treatment for youth with problematic sexual behavior may be working with an inadequate measurement tool, potentially affecting care decisions.",
-      "caveats": "small sample (N<100 is not applicable here \u2014 N=236, but narrow population: male juvenile court-referred youth only), single-center, observational design, narrow age range, secondary analysis",
-      "fact_check_note": "",
+      "summary": "Researchers analyzed data from 236 male youth (ages not specified in abstract) referred by juvenile court for treatment of problematic sexual behavior, using exploratory factor analysis to evaluate the Adolescent Clinical Sexual Behavior Inventory (ACSBI). The analysis revealed significant structural and conceptual shortcomings in the measure, including problems with item distributions and factor structure. The authors conclude the ACSBI has critical limitations that affect its reliability for clinical assessment and research with this population.",
+      "why_it_matters": "If clinicians and courts are using a flawed assessment tool to evaluate problematic sexual behavior in youth, treatment referrals and clinical decisions for a vulnerable population may rest on unreliable data.",
+      "caveats": "observational design, single-center, narrow age range (juvenile court-referred males only), secondary analysis, self-reported (parent-reported) outcomes likely, commentary format rather than primary experimental study",
+      "fact_check_note": "The abstract does not specify the age range of the 236 male youth participants. This should be clarified before pitching.",
       "relevance_score": 5,
-      "relevance_score_reason": "Niche clinical/juvenile justice tool critique; limited direct parenting or general pediatric relevance.",
+      "relevance_score_reason": "Important clinical and child welfare implication; commentary/methodological study limits broad parenting appeal.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "The Tool Widely Used to Assess Sexual Behavior Problems in Youth May Not Be Up to the Job",
-          "hook": "A study of 236 court-referred boys found that one of the most commonly used clinical measures for problematic sexual behavior in youth has serious structural flaws.",
-          "pitch_angle": "Researchers found the Adolescent Clinical Sexual Behavior Inventory lacks the psychometric rigor needed for reliable clinical decisions, raising questions about how youth with problematic sexual behavior are being assessed and treated in community settings."
+          "publication_type": "NPR Health / General health",
+          "headline": "Courts and Clinics May Be Using a Flawed Tool to Assess Sexual Behavior Problems in Youth",
+          "hook": "A new analysis suggests one of the most commonly used instruments for evaluating problematic sexual behavior in adolescent males has structural flaws that could affect clinical and legal decisions.",
+          "pitch_angle": "Researchers found the Adolescent Clinical Sexual Behavior Inventory showed significant measurement problems when applied to 236 juvenile court-referred males, raising questions about how accurately youth are being assessed \u2014 and whether the right treatment decisions are being made for a highly vulnerable population."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Behavioral Sciences",
       "chunk": "1/2",
       "status": "new"
@@ -69,25 +135,79 @@
       "journal": "Clinical Nutrition ESPEN",
       "pubdate": "2026 Sep 24",
       "doi": "10.1016/j.clnesp.2026.105137",
-      "groundbreaking": "Major child health or parenting implication",
+      "groundbreaking": "Major child health or parenting implication / First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Brazil used three complementary feeding assessment tools to evaluate 51 children aged 6 months to 18 years (median age ~32 months) with intestinal failure who had been receiving parenteral nutrition for more than two months. More than half (52.9%) of participants showed feeding abnormalities when assessed by at least one instrument, with the highest detection rates in children under 36 months. No single tool caught all cases, suggesting that using multiple instruments together improves identification of feeding difficulties in this population.",
-      "why_it_matters": "For pediatric gastroenterologists and families managing intestinal failure, these findings suggest that relying on a single screening tool may miss feeding problems that could delay a child's transition off IV nutrition.",
-      "caveats": "small sample (N<100), observational design, single-center, narrow age range",
+      "summary": "Researchers in Brazil used three complementary feeding assessment tools to evaluate feeding difficulties in 51 children (ages 6 months to 18 years) with intestinal failure who had been on parenteral nutrition for at least two months. More than half (52.9%) of participants showed feeding abnormalities detected by at least one instrument, with younger children under 36 months showing significantly higher rates. The study suggests that no single tool catches all cases, and that combining assessments may better identify which children need individualized feeding intervention.",
+      "why_it_matters": "For families and clinicians managing children with intestinal failure, this suggests that routine use of multiple feeding assessment tools \u2014 not just one \u2014 may uncover hidden feeding difficulties that could otherwise delay the transition away from IV nutrition.",
+      "caveats": "small sample (N<100), observational design, single-center, narrow age range, cross-sectional design limits causal inference",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Highly specialized rare-disease pediatric population; limited parenting audience relevance.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Pediatric clinical finding, but highly specialized population limits broad parenting relevance.",
       "pitch_angles": [
         {
           "publication_type": "Verywell Health / Everyday Health",
-          "headline": "Most Kids With Intestinal Failure Have Feeding Problems That Go Undetected \u2014 Unless Doctors Use the Right Tests",
-          "hook": "More than half of children on long-term IV nutrition have feeding difficulties that a single screening tool alone will miss.",
-          "pitch_angle": "A Brazilian study found that over half of children with intestinal failure showed feeding abnormalities, but no single assessment tool caught every case. For families navigating the complex transition off parenteral nutrition, the findings highlight why comprehensive feeding evaluations matter."
+          "headline": "Why Kids on IV Feeding May Be Struggling to Eat \u2014 And How Doctors Are Missing It",
+          "hook": "More than half of children dependent on long-term IV nutrition have feeding problems that often go undetected with standard screening.",
+          "pitch_angle": "A Brazilian study found that using three assessment tools together \u2014 rather than one \u2014 caught significantly more feeding difficulties in children with intestinal failure. For families navigating the complex transition from IV to oral feeding, the findings suggest that a more thorough evaluation approach could make a meaningful difference."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42328851",
+      "headline": "AI Could Help Catch Dangerous Polyps Sooner in Kids Born With Hereditary Cancer Syndromes",
+      "journal": "Current Opinion in Pediatrics",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/MOP.0000000000001593",
+      "groundbreaking": "First-in-class human study / Major child health or parenting implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review summarizes the current evidence for AI-assisted endoscopy in children with hereditary polyposis syndromes \u2014 rare genetic conditions requiring lifelong surveillance colonoscopies \u2014 drawing on adult AI endoscopy trials and early pediatric feasibility data. The authors note that while AI improves polyp detection and reduces missed lesions in adult colonoscopy, no studies yet exist specifically in pediatric hereditary polyposis populations. The review argues that AI applications \u2014 including automated polyp detection and longitudinal lesion tracking \u2014 could meaningfully reduce the burden of repeated procedures for affected children.",
+      "why_it_matters": "For the small but significant population of children with hereditary polyposis syndromes, AI-assisted endoscopy could one day reduce missed lesions and ease the lifelong burden of surveillance procedures \u2014 though pediatric-specific evidence is still needed.",
+      "caveats": "review article (no original data), no pediatric RCT or cohort data, narrow age range (hereditary polyposis population only), extrapolated from adult studies",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche pediatric GI population; review only; AI angle has emerging interest but no pediatric trial data yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / Verywell Health",
+          "headline": "AI Is Already Transforming Adult Cancer Screening \u2014 Could It Help Kids With Hereditary Cancer Risk Next?",
+          "hook": "Children born with hereditary polyposis syndromes face decades of repeat colonoscopies \u2014 and a new review says AI could soon make those procedures more accurate and less burdensome.",
+          "pitch_angle": "AI tools have already been shown to catch more polyps and miss fewer lesions in adult colonoscopies, and researchers say it's time to develop and test those same tools for the thousands of children who require lifelong cancer surveillance. No pediatric trials exist yet, but experts argue that AI-assisted endoscopy could be especially valuable for children whose cancer risk begins in childhood."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Pediatrics",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42128227",
+      "headline": "Curiosity \u2014 Not Just Taste \u2014 May Get Kids to Try Unusual New Foods",
+      "journal": "Appetite",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.appet.2026.108587",
+      "groundbreaking": "Counterintuitive finding / Major child health or parenting implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers ran a controlled experiment (N=210 adults) testing whether inducing curiosity \u2014 via unsolved riddles \u2014 could increase willingness to eat a novel insect-based snack (cricket flour nachos). Participants whose curiosity was left unsatisfied consumed significantly more of the cricket-based snack, with food neophobia attenuating the effect. The finding suggests curiosity can function as a transferable psychological lever to encourage trying unfamiliar foods, independent of the food itself.",
+      "why_it_matters": "The idea that sparking curiosity before mealtime \u2014 not forcing or bribing \u2014 may help picky eaters warm up to new foods offers parents and pediatric dietitians a low-pressure behavioral strategy worth exploring in child feeding research.",
+      "caveats": "adult study extrapolated to children without pediatric data, small sample (N<100 per cell), single-center, narrow age range (adults only), sex differences noted but unexplained",
+      "fact_check_note": "This study was conducted with adult participants, not children. Any application to pediatric picky eating is speculative and extrapolated \u2014 must be clearly labeled as such in any pitch.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive behavioral finding; picky eating hook, but adult-only sample limits pediatric relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Parents Magazine / Today's Parent",
+          "headline": "The Surprising Trick That Might Get Your Picky Eater to Try Something New",
+          "hook": "Sparking a child's curiosity before a meal \u2014 not rewarding or pressuring them \u2014 may be the key to getting them to try unfamiliar foods, early adult research suggests.",
+          "pitch_angle": "A controlled experiment found that adults whose curiosity was piqued (via unsolved riddles) ate more of a novel, unfamiliar food. While the study used adults, researchers say the curiosity-as-lever concept could inform how parents and caregivers introduce new foods to picky eaters \u2014 with questions and mystery instead of coercion."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -7520,33 +7640,6 @@
           "headline": "A New Ultrasound Trick May Help Doctors Place IV Lines More Safely in Newborns",
           "hook": "A simple angle measured on a bedside ultrasound screen could tell NICU doctors whether a critical IV line is sitting in exactly the right place.",
           "pitch_angle": "Researchers found that measuring a specific anatomical angle using point-of-care ultrasound predicted correct catheter placement in newborns with high accuracy. For parents of premature or critically ill infants, this suggests a less invasive, radiation-free approach to confirming a common but risky NICU procedure."
-        }
-      ],
-      "run_date": "2026-06-30",
-      "category": "Pediatrics",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42328851",
-      "headline": "AI is transforming adult colon cancer screening \u2014 but kids with hereditary polyp syndromes are being left behind",
-      "journal": "Current Opinion in Pediatrics",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1097/MOP.0000000000001593",
-      "groundbreaking": "Major child health or parenting implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review summarizes existing evidence on artificial intelligence (AI) tools in endoscopy for children with hereditary polyposis syndromes \u2014 rare inherited conditions requiring lifelong colon surveillance due to cancer risk. While AI has improved polyp detection and reduced missed lesions in adult colonoscopy trials, the authors found no pediatric studies specifically addressing hereditary polyposis syndromes, though early feasibility data are encouraging. The review calls for pediatric-specific datasets and prospective validation before clinical adoption.",
-      "why_it_matters": "Children born with hereditary polyposis syndromes face decades of repeated colonoscopies, and the absence of pediatric AI evidence means they are not yet benefiting from detection tools already improving care in adults.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Rare pediatric condition; strong policy and equity angle but limited original data.",
-      "pitch_angles": [
-        {
-          "publication_type": "NPR Health / General health",
-          "headline": "AI Is Getting Better at Finding Colon Polyps \u2014 But Kids With Genetic Cancer Risk Aren't Benefiting Yet",
-          "hook": "Artificial intelligence tools that help doctors find precancerous polyps during colonoscopies have strong evidence in adults \u2014 but children with inherited polyp syndromes have been largely left out of the research.",
-          "pitch_angle": "A new review finds that while AI-assisted endoscopy reduces missed polyps in adult studies, no published trials have tested these tools specifically in children with hereditary polyposis syndromes who face a lifetime of surveillance procedures. Experts say building pediatric-specific AI datasets is now urgent to close this gap."
         }
       ],
       "run_date": "2026-06-30",
